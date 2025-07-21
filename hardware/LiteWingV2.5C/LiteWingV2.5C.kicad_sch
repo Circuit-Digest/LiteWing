@@ -8081,7 +8081,7 @@
 		)
 		(uuid "c17a9ce8-a5f3-497e-8a54-c60efe7cf316")
 	)
-	(text "Mototr Drivers"
+	(text "Motor Drivers"
 		(exclude_from_sim no)
 		(at 109.22 151.13 0)
 		(effects
@@ -8107,7 +8107,7 @@
 		)
 		(uuid "d86e5e0f-a199-4598-b179-b70582adbc8a")
 	)
-	(text "Exapnsion Connector"
+	(text "Expansion Connector"
 		(exclude_from_sim no)
 		(at 260.35 16.51 0)
 		(effects
@@ -13526,7 +13526,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SI2302DS-T1:SOT95P237X112-3N"
+		(property "Footprint" "DroneV2:SOT95P237X112-3N"
 			(at 25.4 176.53 0)
 			(effects
 				(font
@@ -14722,7 +14722,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SI2302DS-T1:SOT95P237X112-3N"
+		(property "Footprint" "DroneV2:SOT95P237X112-3N"
 			(at 50.8 176.53 0)
 			(effects
 				(font
@@ -15109,7 +15109,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ch340k:ESSOP-10_3.9x4.9mm_P1.00mm"
+		(property "Footprint" "DroneV2:ESSOP-10_3.9x4.9mm_P1.00mm"
 			(at 36.83 96.52 0)
 			(effects
 				(font
@@ -15702,7 +15702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MPU6050:MPU6050"
+		(property "Footprint" "DroneV2:MPU6050"
 			(at 112.014 100.584 0)
 			(effects
 				(font
@@ -16587,7 +16587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SlideSwitchSMDTop:SW-SMD_MST22D18G2"
+		(property "Footprint" "DroneV2:SW-SMD_MST22D18G2"
 			(at 214.63 48.26 0)
 			(effects
 				(font
@@ -16726,7 +16726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ConnTH1.25MM:CONN-TH_1.25T-2A_1.25T-2A"
+		(property "Footprint" "DroneV2:CONN-TH_1.25T-2A_1.25T-2A"
 			(at 269.24 156.21 0)
 			(effects
 				(font
@@ -17363,7 +17363,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SI2302DS-T1:SOT95P237X112-3N"
+		(property "Footprint" "DroneV2:SOT95P237X112-3N"
 			(at 102.87 176.53 0)
 			(effects
 				(font
@@ -24057,7 +24057,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SI2302DS-T1:SOT95P237X112-3N"
+		(property "Footprint" "DroneV2:SOT95P237X112-3N"
 			(at 74.93 176.53 0)
 			(effects
 				(font
@@ -25062,7 +25062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "XH2P:CONN-TH_2P-P2.50_XH-2AW"
+		(property "Footprint" "DroneV2:CONN-TH_2P-P2.50_XH-2AW"
 			(at 161.036 43.688 0)
 			(effects
 				(font
@@ -25373,7 +25373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "3x4x2:Tactile 3x4x2mm TS-A010"
+		(property "Footprint" "DroneV2:Tactile 3x4x2mm TS-A010"
 			(at 195.58 133.35 0)
 			(effects
 				(font
@@ -26124,7 +26124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "tp4056:SOIC127P600X175-9N"
+		(property "Footprint" "DroneV2:SOIC127P600X175-9N"
 			(at 143.51 29.21 0)
 			(effects
 				(font
@@ -26712,7 +26712,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "3x4x2:Tactile 3x4x2mm TS-A010"
+		(property "Footprint" "DroneV2:Tactile 3x4x2mm TS-A010"
 			(at 195.58 124.46 0)
 			(effects
 				(font

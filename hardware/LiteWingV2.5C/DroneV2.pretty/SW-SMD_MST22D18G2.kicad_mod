@@ -1,0 +1,851 @@
+(footprint "SW-SMD_MST22D18G2"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "SW1"
+		(at -0.254 -5.2325 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "9e92f9e8-8ae5-4dcc-8d57-7b949da8d07b")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.075)
+			)
+			(justify left top)
+		)
+	)
+	(property "Value" "MST22D18G2_125"
+		(at -0.254 -7.0105 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7b4d4db6-fc71-49ab-a8ac-44ad4fd65f7b")
+		(effects
+			(font
+				(size 0.9144 0.9144)
+				(thickness 0.1524)
+			)
+			(justify left top)
+		)
+	)
+	(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2110190930_SHOU-HAN-MST22D18G2-125_C2906280.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dc8495f0-73a1-4d78-aa4a-badefc3c642e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed3b7f92-97e2-4ce7-b049-ac33067f5500")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part #" "C2906280"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c23657ad-ea09-441b-8b98-3a7c511056a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Link" "https://www.lcsc.com/product-detail/Slide-Switches_SHOU-HAN-MST22D18G2-125_C2906280.html"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1eeef140-741a-4e35-afed-a3adbe5d5eaa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MFR.Part #" "MST22D18G2 125"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e61895e-3920-4cfc-bf06-3a1c32d38812")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "SHOU HAN"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b2305659-5821-4717-864f-05d581264468")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "SMD-SW"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "263a22e2-d075-45fb-b470-5ae5fe67f9da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLCA Type" "Extended"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0dedfac2-7b24-474e-9852-c0ca7ccc5a6a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.6 -1.8001)
+		(end -4.6 1.778)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6904cc6c-e508-4c50-96fb-4e6c5edee47f")
+	)
+	(fp_line
+		(start -4.6 -1.8001)
+		(end -3.3256 -1.8001)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "74c9d12c-3e6e-46de-983d-ee4aa766848a")
+	)
+	(fp_line
+		(start -3.3194 1.7779)
+		(end -4.6 1.7779)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "35e94b45-4fea-4089-9950-0a644b20679f")
+	)
+	(fp_line
+		(start -3.048 -1.2701)
+		(end 3.048 -1.2701)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "81698d29-e5a6-4fe0-aa2d-eb326fad7be5")
+	)
+	(fp_line
+		(start -3.048 1.269899)
+		(end -3.048 -1.2701)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "24baae05-9448-4de4-b617-b6d82dc96970")
+	)
+	(fp_line
+		(start -2.54 -0.5081)
+		(end -1.524 -0.5081)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a87aeadc-b85d-49f1-a92f-c15c1ec929cf")
+	)
+	(fp_line
+		(start -2.54 0.5079)
+		(end -2.54 -0.5081)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0801430a-0540-4249-b368-08e315ada60d")
+	)
+	(fp_line
+		(start -1.674401 -1.8001)
+		(end -0.825599 -1.8001)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d65a81df-17b4-425a-ac34-cac57adf270c")
+	)
+	(fp_line
+		(start -1.524 -0.5081)
+		(end -1.524 0.5079)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8f6e77cd-209b-4590-9901-373bceb27b50")
+	)
+	(fp_line
+		(start -1.524 0.5079)
+		(end -2.54 0.5079)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "dd6f8673-9d39-4af9-967d-1e36f57d3c33")
+	)
+	(fp_line
+		(start -0.8195 1.7779)
+		(end -1.6805 1.7779)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "09505804-a727-45b1-992c-a48ba6f84e58")
+	)
+	(fp_line
+		(start 0.825599 -1.8001)
+		(end 1.674401 -1.8001)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1d979b39-74c1-4277-b726-5eeb5ff50cd5")
+	)
+	(fp_line
+		(start 1.6805 1.7779)
+		(end 0.8195 1.7779)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "377c83b5-4655-4c4b-887a-abdbfe10ea9a")
+	)
+	(fp_line
+		(start 3.048 -1.2701)
+		(end 3.048 1.269899)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c9a17adb-0a9e-4004-9f4c-9740b1f027b6")
+	)
+	(fp_line
+		(start 3.048 1.269899)
+		(end -3.048 1.269899)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2ada488f-e3f2-4d93-8c6a-237326cd4489")
+	)
+	(fp_line
+		(start 3.325501 -1.8001)
+		(end 4.572 -1.778)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4685b8cf-2684-4692-a803-a108c3d1d512")
+	)
+	(fp_line
+		(start 4.572 1.7779)
+		(end 3.3194 1.7779)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5f8a11e9-a478-4eb0-8268-9f3455629c73")
+	)
+	(fp_line
+		(start 4.572 1.7779)
+		(end 4.572 -1.8001)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f24af46b-687a-40b6-9c69-04807410342c")
+	)
+	(fp_circle
+		(center -4.549901 -3.4251)
+		(end -4.5199 -3.425099)
+		(stroke
+			(width 0.06)
+			(type default)
+		)
+		(fill no)
+		(layer "User.5")
+		(uuid "67eb6e90-3772-49a5-bc46-16978a5d1c80")
+	)
+	(pad "1" smd rect
+		(at -2.4999 -2.85 180)
+		(size 1.1999 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "a2d5a6cb-431d-4276-9c91-9da97039c892")
+	)
+	(pad "2" smd rect
+		(at 0 -2.85 180)
+		(size 1.1999 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "98b4a1c8-4b5e-47b1-9c43-a4efc8ffe9c6")
+	)
+	(pad "3" smd rect
+		(at 2.4999 -2.85 180)
+		(size 1.1999 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "35b1fc2c-e857-4805-80f7-9a94b1bff086")
+	)
+	(pad "4" smd rect
+		(at -2.4999 2.85 180)
+		(size 1.1999 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "95c0679a-e06b-468a-b5f2-7ad1c021ea59")
+	)
+	(pad "5" smd rect
+		(at 0 2.8498 180)
+		(size 1.1999 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "62c51d85-ddfa-4d0f-b701-fd538e3083ca")
+	)
+	(pad "6" smd rect
+		(at 2.4999 2.85 180)
+		(size 1.1999 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "c45bc097-057b-483d-9f1c-daee8757fc77")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "Dwgs.User")
+		(uuid "3d82eb8d-55a9-4dd6-9f97-cfe4c5b68344")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -2.286 -0.508) (xy -2.286 0.508) (xy -0.508 0.508) (xy -0.508 -0.508)
+			)
+		)
+		(filled_polygon
+			(layer "Dwgs.User")
+			(island)
+			(pts
+				(xy -2.286 -0.508) (xy -2.286 0.508) (xy -0.508 0.508) (xy -0.508 -0.508)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "Dwgs.User")
+		(uuid "b01523ac-5273-45ab-8747-1c33bc1d9b8b")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -2.54 -1.016) (xy -2.794 -1.016) (xy -2.794 1.016) (xy 2.794 1.016) (xy 2.794 -1.016) (xy 2.54 -1.016)
+				(xy 2.54 0.762) (xy -2.54 0.762) (xy -2.54 -0.762) (xy 2.286 -0.761999) (xy 2.286001 -1.016)
+			)
+		)
+		(filled_polygon
+			(layer "Dwgs.User")
+			(island)
+			(pts
+				(xy -2.54 -1.016) (xy -2.794 -1.016) (xy -2.794 1.016) (xy 2.794 1.016) (xy 2.794 -1.016) (xy 2.54 -1.016)
+				(xy 2.54 0.762) (xy -2.54 0.762) (xy -2.54 -0.762) (xy 2.286 -0.761999) (xy 2.286001 -1.016)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.3")
+		(uuid "48db3542-430d-4a22-8d90-8a7542c33109")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -4.55 1.8) (xy -4.55 -1.8) (xy 4.55 -1.8) (xy 4.55 1.8)
+			)
+		)
+		(filled_polygon
+			(layer "User.3")
+			(island)
+			(pts
+				(xy -4.55 1.8) (xy -4.55 -1.8) (xy 4.55 -1.8) (xy 4.55 1.8)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "287f4ac9-5cf4-47ed-91c2-1ad2805d588e")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -2.7499 -2.625) (xy -2.7499 -3.425) (xy -2.2499 -3.425) (xy -2.2499 -2.625)
+			)
+		)
+		(filled_polygon
+			(layer "User.4")
+			(island)
+			(pts
+				(xy -2.7499 -2.625) (xy -2.7499 -3.425) (xy -2.2499 -3.425) (xy -2.2499 -2.625)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "9024e0ea-770e-4abe-be9e-7b740b104013")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -2.7499 -1.79) (xy -2.7499 -2.634999) (xy -2.2499 -2.635) (xy -2.2499 -1.790001)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "636c93e3-23b9-476f-82f9-4d5509b8e54d")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -2.7499 2.634999) (xy -2.7499 1.79) (xy -2.2499 1.790001) (xy -2.2499 2.635)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "65d68a5e-e828-4306-80d1-d5dbd343363e")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -2.7499 3.425) (xy -2.7499 2.625) (xy -2.2499 2.625) (xy -2.2499 3.425)
+			)
+		)
+		(filled_polygon
+			(layer "User.4")
+			(island)
+			(pts
+				(xy -2.7499 3.425) (xy -2.7499 2.625) (xy -2.2499 2.625) (xy -2.2499 3.425)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "6bb595fa-5d7d-4300-928e-3e9cfb763b46")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -0.25 -2.625) (xy -0.25 -3.425) (xy 0.25 -3.425) (xy 0.25 -2.625)
+			)
+		)
+		(filled_polygon
+			(layer "User.4")
+			(island)
+			(pts
+				(xy -0.25 -2.625) (xy -0.25 -3.425) (xy 0.25 -3.425) (xy 0.25 -2.625)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "b5e69563-54ee-4ffb-9e99-482df4af67fe")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -0.25 -1.79) (xy -0.25 -2.635) (xy 0.25 -2.635) (xy 0.25 -1.79)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "0d4329b4-0222-4825-8aa3-4f1e348ab90c")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -0.25 2.635) (xy -0.25 1.79) (xy 0.25 1.79) (xy 0.25 2.635)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "1486b7ff-c476-48ce-a249-f52ca6b53a77")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -0.25 3.425) (xy -0.25 2.625) (xy 0.25 2.625) (xy 0.25 3.425)
+			)
+		)
+		(filled_polygon
+			(layer "User.4")
+			(island)
+			(pts
+				(xy -0.25 3.425) (xy -0.25 2.625) (xy 0.25 2.625) (xy 0.25 3.425)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "d543cb87-2d6b-4e02-babd-492fa348eb04")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 2.2499 -2.625) (xy 2.2499 -3.425) (xy 2.7499 -3.425) (xy 2.7499 -2.625)
+			)
+		)
+		(filled_polygon
+			(layer "User.4")
+			(island)
+			(pts
+				(xy 2.2499 -2.625) (xy 2.2499 -3.425) (xy 2.7499 -3.425) (xy 2.7499 -2.625)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "11b5fc48-879e-49f8-81cb-f84585aa6e62")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 2.2499 -1.790001) (xy 2.2499 -2.635) (xy 2.7499 -2.634999) (xy 2.7499 -1.79)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "63391904-59fe-45ac-a8fa-d85747c63014")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 2.2499 2.635) (xy 2.2499 1.790001) (xy 2.7499 1.79) (xy 2.7499 2.634999)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.4")
+		(uuid "004ad3df-3e7f-4ec3-a931-9a36f813be6f")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 2.2499 3.425) (xy 2.2499 2.625) (xy 2.7499 2.625) (xy 2.7499 3.425)
+			)
+		)
+		(filled_polygon
+			(layer "User.4")
+			(island)
+			(pts
+				(xy 2.2499 3.425) (xy 2.2499 2.625) (xy 2.7499 2.625) (xy 2.7499 3.425)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "/Users/semiconmediapvtltd/Desktop/KicadLib/SlideSwitchSMDTop/MST22D18G2_125.step"
+		(offset
+			(xyz -0 -0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 0)
+		)
+	)
+)

@@ -1,0 +1,343 @@
+(footprint "CONN-TH_1.25T-2A_1.25T-2A"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "J14"
+		(at -0.1171 -3.9624 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e55cf17d-20d9-46d3-b17c-85f9d14bda7f")
+		(effects
+			(font
+				(size 0.9144 0.9144)
+				(thickness 0.1524)
+			)
+			(justify left top)
+		)
+	)
+	(property "Value" "Conn_01x02"
+		(at -0.1171 -5.7404 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "70e99f80-aed0-4d64-a792-3a92ad3e1408")
+		(effects
+			(font
+				(size 0.9144 0.9144)
+				(thickness 0.1524)
+			)
+			(justify left top)
+		)
+	)
+	(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_CAX-1-25-2A_C722594.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "936314a9-5305-4502-ac47-553ca0a41586")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f4ce4ecb-5e27-4249-83da-8824231fb2e0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part #" " C722594"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aed0bd58-6513-4904-bebb-732b03ae3b89")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Link" "https://www.lcsc.com/product-detail/Wire-To-Board-Connector_CAX-1-25-2A_C722594.html"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8bdab39-4aaa-4f88-aadf-5866be3249c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MFR.Part #" " 1.25-2A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "18f255be-c435-42f5-911e-578a492ec37b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "CAX"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b63a937-3ea3-4f42-8dc2-ca0548a67501")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" " Plugin,P=1.25mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68f68800-59ac-40c5-a778-ba6e9e4ccea5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLCA Type" "Extended"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee349431-0b56-43d3-90bb-9d675efd0206")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.2001 -2.6)
+		(end -2.2001 0.9)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e62e9f6b-9d8b-4458-90d3-fccf8cf81c14")
+	)
+	(fp_line
+		(start -2.2001 0.9)
+		(end 2.2 0.9)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "be7a2bfd-e014-44ac-98af-27cb6bce4215")
+	)
+	(fp_line
+		(start -2.1604 -0.2896)
+		(end -1.8401 -0.29)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "950817bb-8f44-4913-98bd-8a42fca629b8")
+	)
+	(fp_line
+		(start -1.8403 -1.2497)
+		(end -2.201 -1.2497)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "14e74492-8437-494a-b812-3ba0f469144d")
+	)
+	(fp_line
+		(start -1.8401 -0.29)
+		(end -1.8403 -1.2497)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7c5d4375-aed6-41bf-8551-8c68ad452de5")
+	)
+	(fp_line
+		(start 1.8397 -0.3005)
+		(end 1.84 -1.2601)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3e7f6c51-6c24-48e9-8472-0a614c6c0281")
+	)
+	(fp_line
+		(start 1.84 -1.2601)
+		(end 2.2006 -1.2601)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fe0d143d-075d-4e33-a833-68fdf894650c")
+	)
+	(fp_line
+		(start 2.16 -0.3)
+		(end 1.8397 -0.3005)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "114cb07b-6380-409b-a1bd-55b16581041a")
+	)
+	(fp_line
+		(start 2.2 -2.6)
+		(end -2.2001 -2.6)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0bcd1724-a67c-4ec7-9ce7-89909ca30738")
+	)
+	(fp_line
+		(start 2.2 -2.1105)
+		(end -2.2001 -2.1106)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f44757cd-d35b-48a6-99c7-e56a41fc18a3")
+	)
+	(fp_line
+		(start 2.2028 0.902)
+		(end 2.2028 -2.5979)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b2bf1edb-79ab-49b4-90e1-bdabd01f726d")
+	)
+	(fp_circle
+		(center -0.6251 0)
+		(end -0.525 0)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "User.4")
+		(uuid "34ac9dd1-71be-4309-864a-594f95cb6e8e")
+	)
+	(fp_circle
+		(center 0.6251 0)
+		(end 0.7252 0)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "User.4")
+		(uuid "26170276-10f6-42b4-a41b-eec877b1ed3c")
+	)
+	(fp_circle
+		(center -2.3279 1.029)
+		(end -2.2979 1.029)
+		(stroke
+			(width 0.06)
+			(type default)
+		)
+		(fill no)
+		(layer "User.5")
+		(uuid "beca192f-97d1-4158-963f-94904b2c4b89")
+	)
+	(pad "1" thru_hole rect
+		(at -0.6251 0)
+		(size 1 1)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "2b6d263c-3020-49c1-994d-2a953ebdd4f5")
+	)
+	(pad "2" thru_hole oval
+		(at 0.6251 0)
+		(size 1 1)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "516b53d3-c116-4aeb-aa56-3693649e3526")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "User.3")
+		(uuid "00130604-adbf-4782-939c-660b6a782608")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -2.328 -2.727) (xy 2.3298 -2.727) (xy 2.3298 1.029) (xy -2.328 1.029)
+			)
+		)
+		(filled_polygon
+			(layer "User.3")
+			(island)
+			(pts
+				(xy -2.328 -2.727) (xy 2.3298 -2.727) (xy 2.3298 1.029) (xy -2.328 1.029)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "/Users/semiconmediapvtltd/Desktop/KicadLib/ConnTH1.25MM.pretty/CONN-TH_1.25T-2A_1.25T-2A.step"
+		(offset
+			(xyz -0 -0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 0)
+		)
+	)
+)
