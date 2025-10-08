@@ -1,0 +1,3567 @@
+CRTP Packet Log
+================
+
+Packet #1
+Timestamp: 1751357317.071270
+Direction: SENT
+Length: 4 bytes
+Hex: ff 01 01 01
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 15, Channel: 15
+--------------------------------------------------
+
+Packet #2
+Timestamp: 1751357317.072596
+Direction: SENT
+Length: 3 bytes
+Hex: fd 00 fd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 15, Channel: 13
+--------------------------------------------------
+
+Packet #3
+Timestamp: 1751357317.095548
+Direction: RECEIVED
+Length: 32 bytes
+Hex: fd 42 69 74 63 72 61 7a 65 20 43 72 61 7a 79 66 6c 69 65 00 00 00 00 00 00 00 00 00 00 00 00 fa
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 15, Channel: 13
+--------------------------------------------------
+
+Packet #4
+Timestamp: 1751357317.095698
+Direction: SENT
+Length: 3 bytes
+Hex: dd 00 dd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 13, Channel: 13
+--------------------------------------------------
+
+Packet #5
+Timestamp: 1751357317.101280
+Direction: RECEIVED
+Length: 7 bytes
+Hex: dd 00 04 00 00 00 e1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 13, Channel: 13
+--------------------------------------------------
+
+Packet #6
+Timestamp: 1751357317.101500
+Direction: SENT
+Length: 3 bytes
+Hex: 5d 05 62
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 13
+--------------------------------------------------
+
+Packet #7
+Timestamp: 1751357317.105999
+Direction: RECEIVED
+Length: 5 bytes
+Hex: 5d 05 01 00 63
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 13
+--------------------------------------------------
+
+Packet #8
+Timestamp: 1751357317.106068
+Direction: SENT
+Length: 3 bytes
+Hex: 5c 03 5f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 12
+--------------------------------------------------
+
+Packet #9
+Timestamp: 1751357317.111090
+Direction: RECEIVED
+Length: 11 bytes
+Hex: 50 03 33 01 1c 2c 21 02 10 80 82
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 0
+--------------------------------------------------
+
+Packet #10
+Timestamp: 1751357317.115712
+Direction: SENT
+Length: 3 bytes
+Hex: 4c 01 4d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 4, Channel: 12
+--------------------------------------------------
+
+Packet #11
+Timestamp: 1751357317.138918
+Direction: RECEIVED
+Length: 4 bytes
+Hex: 40 01 00 41
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 4, Channel: 0
+--------------------------------------------------
+
+Packet #12
+Timestamp: 1751357317.139000
+Direction: SENT
+Length: 3 bytes
+Hex: 2c 03 2f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 12
+--------------------------------------------------
+
+Packet #13
+Timestamp: 1751357317.143184
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 20 03 b7 00 6c 26 ac a6 be
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 0
+--------------------------------------------------
+
+Packet #14
+Timestamp: 1751357317.146329
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 00 00 2d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #15
+Timestamp: 1751357317.173138
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 00 00 00 01 2e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #16
+Timestamp: 1751357317.173217
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 01 00 2e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #17
+Timestamp: 1751357317.188086
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 01 00 00 00 2e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #18
+Timestamp: 1751357317.188129
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 24 00 51
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #19
+Timestamp: 1751357317.194025
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 24 00 00 00 51
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #20
+Timestamp: 1751357317.194089
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 02 00 2f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #21
+Timestamp: 1751357317.198494
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 02 00 00 00 2f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #22
+Timestamp: 1751357317.198532
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 03 00 30
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #23
+Timestamp: 1751357317.203139
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 03 00 00 00 00 00 3f 6f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #24
+Timestamp: 1751357317.203180
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 04 00 31
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #25
+Timestamp: 1751357317.208125
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 04 00 00 00 00 00 3f 70
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #26
+Timestamp: 1751357317.208153
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 05 00 32
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #27
+Timestamp: 1751357317.213099
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 05 00 00 00 32
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #28
+Timestamp: 1751357317.213125
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 06 00 33
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #29
+Timestamp: 1751357317.217552
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 06 00 00 00 33
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #30
+Timestamp: 1751357317.217588
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 07 00 34
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #31
+Timestamp: 1751357317.239658
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 07 00 00 00 00 00 3f 73
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #32
+Timestamp: 1751357317.239723
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 08 00 35
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #33
+Timestamp: 1751357317.244161
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 08 00 00 00 00 80 3f f4
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #34
+Timestamp: 1751357317.244186
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 09 00 36
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #35
+Timestamp: 1751357317.248642
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 09 00 00 00 00 00 00 36
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #36
+Timestamp: 1751357317.248663
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0a 00 37
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #37
+Timestamp: 1751357317.253159
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0a 00 00 00 00 00 00 37
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #38
+Timestamp: 1751357317.253180
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0b 00 38
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #39
+Timestamp: 1751357317.262435
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0b 00 00 00 00 00 00 38
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #40
+Timestamp: 1751357317.262490
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0c 00 39
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #41
+Timestamp: 1751357317.269490
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0c 00 00 00 00 00 40 79
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #42
+Timestamp: 1751357317.269521
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0d 00 3a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #43
+Timestamp: 1751357317.275607
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0d 00 00 cd cc cc 3d dc
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #44
+Timestamp: 1751357317.275689
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0e 00 3b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #45
+Timestamp: 1751357317.280461
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0e 00 00 cd cc cc 3d dd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #46
+Timestamp: 1751357317.280524
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0f 00 3c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #47
+Timestamp: 1751357317.302352
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0f 00 00 00 00 00 00 3c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #48
+Timestamp: 1751357317.302435
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 10 00 3d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #49
+Timestamp: 1751357317.319827
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 10 00 00 00 00 00 00 3d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #50
+Timestamp: 1751357317.319887
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 11 00 3e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #51
+Timestamp: 1751357317.325016
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 11 00 00 00 00 00 00 3e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #52
+Timestamp: 1751357317.325072
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 12 00 3f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #53
+Timestamp: 1751357317.330893
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 12 00 00 00 00 00 00 3f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #54
+Timestamp: 1751357317.330920
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 13 00 40
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #55
+Timestamp: 1751357317.335424
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 13 00 00 00 00 c8 42 4a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #56
+Timestamp: 1751357317.335447
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 14 00 41
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #57
+Timestamp: 1751357317.339297
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 14 00 00 00 00 20 41 a2
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #58
+Timestamp: 1751357317.339368
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 15 00 42
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #59
+Timestamp: 1751357317.367590
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 15 00 00 00 42
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #60
+Timestamp: 1751357317.367674
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 16 00 43
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #61
+Timestamp: 1751357317.407425
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 16 00 00 00 00 00 00 43
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #62
+Timestamp: 1751357317.407738
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 17 00 44
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #63
+Timestamp: 1751357317.412514
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 17 00 00 00 44
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #64
+Timestamp: 1751357317.412592
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 18 00 45
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #65
+Timestamp: 1751357317.435898
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 18 00 00 00 00 45
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #66
+Timestamp: 1751357317.436090
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 19 00 46
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #67
+Timestamp: 1751357317.440405
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 19 00 00 00 00 46
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #68
+Timestamp: 1751357317.440638
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1a 00 47
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #69
+Timestamp: 1751357317.446040
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 1a 00 00 00 00 47
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #70
+Timestamp: 1751357317.446220
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1b 00 48
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #71
+Timestamp: 1751357317.450527
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 1b 00 00 00 00 48
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #72
+Timestamp: 1751357317.450700
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1c 00 49
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #73
+Timestamp: 1751357317.470587
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 1c 00 00 00 49
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #74
+Timestamp: 1751357317.470831
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1d 00 4a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #75
+Timestamp: 1751357317.492039
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 1d 00 00 0e 00 00 00 58
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #76
+Timestamp: 1751357317.492316
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1e 00 4b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #77
+Timestamp: 1751357317.496861
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 1e 00 00 a0 0f fa
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #78
+Timestamp: 1751357317.497040
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1f 00 4c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #79
+Timestamp: 1751357317.501410
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 1f 00 00 00 4c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #80
+Timestamp: 1751357317.501570
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 20 00 4d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #81
+Timestamp: 1751357317.506518
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 20 00 00 01 4e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #82
+Timestamp: 1751357317.506619
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 21 00 4e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #83
+Timestamp: 1751357317.511231
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 21 00 00 01 4f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #84
+Timestamp: 1751357317.511378
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 22 00 4f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #85
+Timestamp: 1751357317.515635
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 22 00 00 00 4f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #86
+Timestamp: 1751357317.515776
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 23 00 50
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #87
+Timestamp: 1751357317.520807
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 23 00 00 00 50
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #88
+Timestamp: 1751357317.520861
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 25 00 52
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #89
+Timestamp: 1751357317.525449
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 25 00 00 00 00 00 00 52
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #90
+Timestamp: 1751357317.525582
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 26 00 53
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #91
+Timestamp: 1751357317.530338
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 26 00 00 01 00 54
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #92
+Timestamp: 1751357317.530488
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 27 00 54
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #93
+Timestamp: 1751357317.535881
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 27 00 00 00 54
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #94
+Timestamp: 1751357317.536463
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 28 00 55
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #95
+Timestamp: 1751357317.553250
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 28 00 00 00 00 34 44 cd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #96
+Timestamp: 1751357317.553442
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 29 00 56
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #97
+Timestamp: 1751357317.558970
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 29 00 00 00 00 34 44 ce
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #98
+Timestamp: 1751357317.559050
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2a 00 57
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #99
+Timestamp: 1751357317.571819
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 2a 00 00 00 00 c8 43 62
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #100
+Timestamp: 1751357317.571962
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2b 00 58
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #101
+Timestamp: 1751357317.727654
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 2b 00 00 00 00 48 42 e2
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #102
+Timestamp: 1751357317.727777
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2c 00 59
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #103
+Timestamp: 1751357317.739934
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 2c 00 00 00 00 48 42 e3
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #104
+Timestamp: 1751357317.740123
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2d 00 5a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #105
+Timestamp: 1751357317.751536
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 2d 00 00 00 5a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #106
+Timestamp: 1751357317.751617
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2e 00 5b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #107
+Timestamp: 1751357317.801271
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 2e 00 00 00 5b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #108
+Timestamp: 1751357317.801382
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2f 00 5c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #109
+Timestamp: 1751357317.806505
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 2f 00 00 00 5c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #110
+Timestamp: 1751357317.806599
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 30 00 5d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #111
+Timestamp: 1751357317.810738
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 30 00 00 02 5f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #112
+Timestamp: 1751357317.810811
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 31 00 5e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #113
+Timestamp: 1751357317.832272
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 31 00 00 00 5e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #114
+Timestamp: 1751357317.832360
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 32 00 5f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #115
+Timestamp: 1751357317.978773
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 32 00 00 01 60
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #116
+Timestamp: 1751357317.978940
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 33 00 60
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #117
+Timestamp: 1751357317.984298
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 33 00 00 01 61
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #118
+Timestamp: 1751357317.984510
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 34 00 61
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #119
+Timestamp: 1751357317.989429
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 34 00 00 00 61
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #120
+Timestamp: 1751357317.989736
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 35 00 62
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #121
+Timestamp: 1751357317.994516
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 35 00 00 01 63
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #122
+Timestamp: 1751357317.994622
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 36 00 63
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #123
+Timestamp: 1751357318.117316
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 36 00 00 00 63
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #124
+Timestamp: 1751357318.117729
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 37 00 64
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #125
+Timestamp: 1751357318.164804
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 37 00 00 00 64
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #126
+Timestamp: 1751357318.165445
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 38 00 65
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #127
+Timestamp: 1751357318.181678
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 38 00 00 00 65
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #128
+Timestamp: 1751357318.182205
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 39 00 66
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #129
+Timestamp: 1751357318.213527
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 39 00 00 00 66
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #130
+Timestamp: 1751357318.213646
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3a 00 67
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #131
+Timestamp: 1751357318.222294
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 3a 00 00 00 67
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #132
+Timestamp: 1751357318.222397
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3b 00 68
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #133
+Timestamp: 1751357318.227031
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 3b 00 00 00 00 96 43 41
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #134
+Timestamp: 1751357318.227107
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3c 00 69
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #135
+Timestamp: 1751357318.231091
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 3c 00 00 00 00 fa 46 a9
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #136
+Timestamp: 1751357318.231175
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3d 00 6a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #137
+Timestamp: 1751357318.237222
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 3d 00 00 00 00 a0 40 4a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #138
+Timestamp: 1751357318.237396
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3e 00 6b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #139
+Timestamp: 1751357318.243805
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 3e 00 00 00 00 a0 40 4b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #140
+Timestamp: 1751357318.244194
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3f 00 6c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #141
+Timestamp: 1751357318.293221
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 3f 00 00 00 00 a0 40 4c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #142
+Timestamp: 1751357318.293314
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 40 00 6d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #143
+Timestamp: 1751357318.317616
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 40 00 00 49 bf d8 3b 88
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #144
+Timestamp: 1751357318.317668
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 41 00 6e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #145
+Timestamp: 1751357318.329925
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 41 00 00 9f cd aa 3b bf
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #146
+Timestamp: 1751357318.330020
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 42 00 6f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #147
+Timestamp: 1751357318.334777
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 42 00 00 fc 36 c4 ba 1f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #148
+Timestamp: 1751357318.334820
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 43 00 70
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #149
+Timestamp: 1751357318.343436
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 43 00 00 ed 58 36 38 23
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #150
+Timestamp: 1751357318.343486
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 44 00 71
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #151
+Timestamp: 1751357318.350569
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 44 00 00 00 00 c0 41 72
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #152
+Timestamp: 1751357318.350603
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 45 00 72
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #153
+Timestamp: 1751357318.354626
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 45 00 00 00 00 c0 41 73
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #154
+Timestamp: 1751357318.354656
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 46 00 73
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #155
+Timestamp: 1751357318.358692
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 46 00 00 00 00 c0 41 74
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #156
+Timestamp: 1751357318.358722
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 47 00 74
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #157
+Timestamp: 1751357318.368660
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 47 00 00 00 00 60 41 15
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #158
+Timestamp: 1751357318.368688
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 48 00 75
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #159
+Timestamp: 1751357318.393251
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 48 00 00 00 00 60 41 16
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #160
+Timestamp: 1751357318.393312
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 49 00 76
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #161
+Timestamp: 1751357318.398593
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 49 00 00 00 00 60 41 17
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #162
+Timestamp: 1751357318.398625
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4a 00 77
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #163
+Timestamp: 1751357318.402636
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 4a 00 00 a9 fb 00 3d 58
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #164
+Timestamp: 1751357318.402667
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4b 00 78
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #165
+Timestamp: 1751357318.408214
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 4b 00 00 a9 fb 00 3d 59
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #166
+Timestamp: 1751357318.408285
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4c 00 79
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #167
+Timestamp: 1751357318.414076
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 4c 00 00 a9 fb 00 3d 5a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #168
+Timestamp: 1751357318.414203
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4d 00 7a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #169
+Timestamp: 1751357318.418746
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 4d 00 00 00 00 00 41 bb
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #170
+Timestamp: 1751357318.418840
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4e 00 7b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #171
+Timestamp: 1751357318.422921
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 4e 00 00 00 00 00 41 bc
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #172
+Timestamp: 1751357318.422966
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4f 00 7c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #173
+Timestamp: 1751357318.441105
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 4f 00 00 00 7c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #174
+Timestamp: 1751357318.441213
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 50 00 7d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #175
+Timestamp: 1751357318.445557
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 50 00 00 cd cc cc 3e 20
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #176
+Timestamp: 1751357318.445612
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 51 00 7e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #177
+Timestamp: 1751357318.449764
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 51 00 00 cd cc 4c 3e a1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #178
+Timestamp: 1751357318.449802
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 52 00 7f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #179
+Timestamp: 1751357318.453797
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 52 00 00 cd cc 4c 3d a1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #180
+Timestamp: 1751357318.453842
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 53 00 80
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #181
+Timestamp: 1751357318.457716
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 53 00 00 00 00 00 40 c0
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #182
+Timestamp: 1751357318.457790
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 54 00 81
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #183
+Timestamp: 1751357318.462727
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 54 00 00 00 00 a0 3f 60
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #184
+Timestamp: 1751357318.462766
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 55 00 82
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #185
+Timestamp: 1751357318.468224
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 55 00 00 cd cc cc 3e 25
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #186
+Timestamp: 1751357318.468291
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 56 00 83
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #187
+Timestamp: 1751357318.474444
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 56 00 00 cd cc 4c 3d a5
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #188
+Timestamp: 1751357318.474496
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 57 00 84
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #189
+Timestamp: 1751357318.478980
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 57 00 00 cd cc cc 3e 27
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #190
+Timestamp: 1751357318.479038
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 58 00 85
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #191
+Timestamp: 1751357318.516713
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 58 00 00 1b 2f dd 3c e8
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #192
+Timestamp: 1751357318.516810
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 59 00 86
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #193
+Timestamp: 1751357318.520787
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 59 00 00 00 e8 00 48 b6
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #194
+Timestamp: 1751357318.520827
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5a 00 87
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #195
+Timestamp: 1751357318.525279
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5a 00 00 00 b8 88 47 0e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #196
+Timestamp: 1751357318.525313
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5b 00 88
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #197
+Timestamp: 1751357318.530187
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5b 00 00 00 60 6a 47 99
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #198
+Timestamp: 1751357318.530221
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5c 00 89
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #199
+Timestamp: 1751357318.534101
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5c 00 00 00 40 9c 46 ab
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #200
+Timestamp: 1751357318.534252
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5d 00 8a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #201
+Timestamp: 1751357318.550709
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5d 00 00 00 80 3b 46 8b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #202
+Timestamp: 1751357318.551062
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5e 00 8b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #203
+Timestamp: 1751357318.555085
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5e 00 00 00 00 00 00 8b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #204
+Timestamp: 1751357318.555233
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5f 00 8c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #205
+Timestamp: 1751357318.559337
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5f 00 00 00 00 fa 43 c9
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #206
+Timestamp: 1751357318.559490
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 60 00 8d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #207
+Timestamp: 1751357318.563750
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 60 00 00 00 00 48 43 18
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #208
+Timestamp: 1751357318.563931
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 61 00 8e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #209
+Timestamp: 1751357318.583821
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 61 00 00 00 00 80 3f 4d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #210
+Timestamp: 1751357318.584002
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 62 00 8f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #211
+Timestamp: 1751357318.592535
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 62 00 00 00 80 bb 44 0e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #212
+Timestamp: 1751357318.592679
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 63 00 90
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #213
+Timestamp: 1751357318.603163
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 63 00 00 00 90
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #214
+Timestamp: 1751357318.603338
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 64 00 91
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #215
+Timestamp: 1751357318.631453
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 64 00 00 00 00 80 3f 50
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #216
+Timestamp: 1751357318.631662
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 65 00 92
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #217
+Timestamp: 1751357318.679566
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 65 00 00 00 00 80 3f 51
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #218
+Timestamp: 1751357318.679837
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 66 00 93
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #219
+Timestamp: 1751357318.690438
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 66 00 00 00 00 80 3f 52
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #220
+Timestamp: 1751357318.690678
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 67 00 94
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #221
+Timestamp: 1751357318.757276
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 67 00 00 00 00 a0 40 74
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #222
+Timestamp: 1751357318.757476
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 68 00 95
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #223
+Timestamp: 1751357318.789032
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 68 00 00 00 00 a0 40 75
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #224
+Timestamp: 1751357318.789236
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 69 00 96
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #225
+Timestamp: 1751357318.815299
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 69 00 00 00 00 a0 40 76
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #226
+Timestamp: 1751357318.815673
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6a 00 97
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #227
+Timestamp: 1751357318.828190
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6a 00 00 33 33 f3 3f 2f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #228
+Timestamp: 1751357318.828381
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6b 00 98
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #229
+Timestamp: 1751357318.833034
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6b 00 00 cd cc cc 3d 3a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #230
+Timestamp: 1751357318.833101
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6c 00 99
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #231
+Timestamp: 1751357318.837653
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6c 00 00 00 00 00 00 99
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #232
+Timestamp: 1751357318.837720
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6d 00 9a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #233
+Timestamp: 1751357318.846869
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6d 00 00 33 33 f3 3f 32
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #234
+Timestamp: 1751357318.846961
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6e 00 9b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #235
+Timestamp: 1751357318.861405
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6e 00 00 cd cc cc 3d 3d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #236
+Timestamp: 1751357318.861522
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6f 00 9c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #237
+Timestamp: 1751357318.881845
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6f 00 00 00 00 00 00 9c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #238
+Timestamp: 1751357318.881942
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 70 00 9d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #239
+Timestamp: 1751357318.927562
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 70 00 00 cd cc cc 3f 41
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #240
+Timestamp: 1751357318.927672
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 71 00 9e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #241
+Timestamp: 1751357318.940189
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 71 00 00 00 00 00 3f dd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #242
+Timestamp: 1751357318.940302
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 72 00 9f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #243
+Timestamp: 1751357318.958993
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 72 00 00 00 00 00 00 9f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #244
+Timestamp: 1751357318.959080
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 73 00 a0
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #245
+Timestamp: 1751357318.980185
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 73 00 00 c0 5d bd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #246
+Timestamp: 1751357318.980275
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 74 00 a1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #247
+Timestamp: 1751357318.992873
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 74 00 00 88 13 3c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #248
+Timestamp: 1751357318.992965
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 75 00 a2
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #249
+Timestamp: 1751357319.013008
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 75 00 00 00 00 a0 41 83
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #250
+Timestamp: 1751357319.013099
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 76 00 a3
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #251
+Timestamp: 1751357319.045179
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 76 00 00 00 00 80 3f 62
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #252
+Timestamp: 1751357319.045315
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 77 00 a4
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #253
+Timestamp: 1751357319.060931
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 77 00 00 00 00 80 3f 63
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #254
+Timestamp: 1751357319.061040
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 78 00 a5
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #255
+Timestamp: 1751357319.065471
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 78 00 00 00 00 c8 41 ae
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #256
+Timestamp: 1751357319.065521
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 79 00 a6
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #257
+Timestamp: 1751357319.072869
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 79 00 00 00 00 80 3f 65
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #258
+Timestamp: 1751357319.072931
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7a 00 a7
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #259
+Timestamp: 1751357319.079723
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7a 00 00 00 00 00 00 a7
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #260
+Timestamp: 1751357319.079906
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7b 00 a8
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #261
+Timestamp: 1751357319.087859
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7b 00 00 00 00 c8 41 b1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #262
+Timestamp: 1751357319.088115
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7c 00 a9
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #263
+Timestamp: 1751357319.104179
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7c 00 00 00 00 80 3f 68
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #264
+Timestamp: 1751357319.104351
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7d 00 aa
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #265
+Timestamp: 1751357319.113548
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7d 00 00 00 00 00 00 aa
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #266
+Timestamp: 1751357319.113637
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7e 00 ab
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #267
+Timestamp: 1751357319.124836
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7e 00 00 00 00 b0 41 9c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #268
+Timestamp: 1751357319.125063
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7f 00 ac
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #269
+Timestamp: 1751357319.130941
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7f 00 00 00 00 70 41 5d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #270
+Timestamp: 1751357319.131043
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 80 00 ad
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #271
+Timestamp: 1751357319.136959
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 80 00 00 00 00 00 00 ad
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #272
+Timestamp: 1751357319.137044
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 81 00 ae
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #273
+Timestamp: 1751357319.141100
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 81 00 00 64 3b 7f 3f 0b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #274
+Timestamp: 1751357319.141160
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 82 00 af
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #275
+Timestamp: 1751357319.185006
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 82 00 00 66 66 66 3f 20
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #276
+Timestamp: 1751357319.185113
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 83 00 b0
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #277
+Timestamp: 1751357319.191607
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 83 00 00 00 00 80 3f 6f
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #278
+Timestamp: 1751357319.191682
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 84 00 b1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #279
+Timestamp: 1751357319.201865
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 84 00 00 52 b8 7e 3f 78
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #280
+Timestamp: 1751357319.201959
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 85 00 b2
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #281
+Timestamp: 1751357319.227548
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 85 00 00 0a d7 23 3d f3
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #282
+Timestamp: 1751357319.227606
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 86 00 b3
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #283
+Timestamp: 1751357319.240252
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 86 00 00 cd cc 4c 3f d7
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #284
+Timestamp: 1751357319.240304
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 87 00 b4
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #285
+Timestamp: 1751357319.249053
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 87 00 00 6f 12 03 3b 73
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #286
+Timestamp: 1751357319.249109
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 88 00 b5
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #287
+Timestamp: 1751357319.260899
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 88 00 00 6f 3e 71 3f 12
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #288
+Timestamp: 1751357319.260993
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 89 00 b6
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #289
+Timestamp: 1751357319.292061
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 89 00 00 00 00 3e 43 37
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #290
+Timestamp: 1751357319.292294
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8a 00 b7
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #291
+Timestamp: 1751357319.320348
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8a 00 00 00 00 dc 43 d6
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #292
+Timestamp: 1751357319.320452
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8b 00 b8
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #293
+Timestamp: 1751357319.349594
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8b 00 00 66 66 26 40 ea
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #294
+Timestamp: 1751357319.349752
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8c 00 b9
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #295
+Timestamp: 1751357319.366114
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8c 00 00 00 00 3e 43 3a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #296
+Timestamp: 1751357319.366337
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8d 00 ba
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #297
+Timestamp: 1751357319.375099
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8d 00 00 00 00 dc 43 d9
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #298
+Timestamp: 1751357319.375375
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8e 00 bb
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #299
+Timestamp: 1751357319.402486
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8e 00 00 66 66 26 40 ed
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #300
+Timestamp: 1751357319.404464
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8f 00 bc
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #301
+Timestamp: 1751357319.468143
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8f 00 00 00 00 f0 42 ee
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #302
+Timestamp: 1751357319.468456
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 90 00 bd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #303
+Timestamp: 1751357319.485789
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 90 00 00 9a 99 85 41 b6
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #304
+Timestamp: 1751357319.486553
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 91 00 be
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #305
+Timestamp: 1751357319.503479
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 91 00 00 00 00 00 00 be
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #306
+Timestamp: 1751357319.503608
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 92 00 bf
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #307
+Timestamp: 1751357319.531453
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 92 00 00 9a 99 a9 40 db
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #308
+Timestamp: 1751357319.531563
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 93 00 c0
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #309
+Timestamp: 1751357319.537761
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 93 00 00 00 00 20 40 20
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #310
+Timestamp: 1751357319.537810
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 94 00 c1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #311
+Timestamp: 1751357319.544436
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 94 00 00 00 00 00 00 c1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #312
+Timestamp: 1751357319.544498
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 95 00 c2
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #313
+Timestamp: 1751357319.556353
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 95 00 00 9a 99 a9 40 de
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #314
+Timestamp: 1751357319.556539
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 96 00 c3
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #315
+Timestamp: 1751357319.590151
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 96 00 00 00 00 20 40 23
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #316
+Timestamp: 1751357319.590387
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 97 00 c4
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #317
+Timestamp: 1751357319.607797
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 97 00 00 00 00 00 00 c4
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #318
+Timestamp: 1751357319.608024
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 98 00 c5
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #319
+Timestamp: 1751357319.626662
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 98 00 00 00 00 c0 40 c5
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #320
+Timestamp: 1751357319.626877
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 99 00 c6
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #321
+Timestamp: 1751357319.671217
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 99 00 00 00 00 80 3f 85
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #322
+Timestamp: 1751357319.671473
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9a 00 c7
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #323
+Timestamp: 1751357319.703568
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 9a 00 00 33 33 b3 3e 1e
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #324
+Timestamp: 1751357319.705483
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9b 00 c8
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #325
+Timestamp: 1751357319.718289
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 9b 00 00 01 c9
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #326
+Timestamp: 1751357319.718382
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9c 00 c9
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #327
+Timestamp: 1751357319.731699
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 9c 00 00 00 c9
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #328
+Timestamp: 1751357319.731919
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9d 00 ca
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #329
+Timestamp: 1751357319.756201
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 9d 00 00 00 ca
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #330
+Timestamp: 1751357319.756302
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a3 00 d0
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #331
+Timestamp: 1751357319.760602
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a3 00 00 01 d1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #332
+Timestamp: 1751357319.760775
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a4 00 d1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #333
+Timestamp: 1751357319.792487
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a4 00 00 00 d1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #334
+Timestamp: 1751357319.792682
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a5 00 d2
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #335
+Timestamp: 1751357319.805231
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a5 00 00 00 d2
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #336
+Timestamp: 1751357319.805462
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a6 00 d3
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #337
+Timestamp: 1751357319.831221
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a6 00 00 00 d3
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #338
+Timestamp: 1751357319.831472
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a7 00 d4
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #339
+Timestamp: 1751357319.840276
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a7 00 00 00 d4
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #340
+Timestamp: 1751357319.840383
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a8 00 d5
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #341
+Timestamp: 1751357319.845501
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a8 00 00 00 d5
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #342
+Timestamp: 1751357319.845639
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a9 00 d6
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #343
+Timestamp: 1751357319.850676
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a9 00 00 00 d6
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #344
+Timestamp: 1751357319.850802
+Direction: SENT
+Length: 4 bytes
+Hex: 2d aa 00 d7
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #345
+Timestamp: 1751357319.871757
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d aa 00 00 00 d7
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #346
+Timestamp: 1751357319.888439
+Direction: SENT
+Length: 4 bytes
+Hex: 2d ab 00 d8
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #347
+Timestamp: 1751357319.900360
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d ab 00 00 00 d8
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #348
+Timestamp: 1751357319.900610
+Direction: SENT
+Length: 4 bytes
+Hex: 2d ac 00 d9
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #349
+Timestamp: 1751357319.907141
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d ac 00 00 00 d9
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #350
+Timestamp: 1751357319.907322
+Direction: SENT
+Length: 4 bytes
+Hex: 2d ad 00 da
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #351
+Timestamp: 1751357319.912793
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d ad 00 00 00 da
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #352
+Timestamp: 1751357319.913017
+Direction: SENT
+Length: 4 bytes
+Hex: 2d ae 00 db
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #353
+Timestamp: 1751357319.976909
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d ae 00 00 00 db
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #354
+Timestamp: 1751357319.977073
+Direction: SENT
+Length: 4 bytes
+Hex: 2d af 00 dc
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #355
+Timestamp: 1751357319.981659
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d af 00 00 00 dc
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #356
+Timestamp: 1751357319.981772
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b0 00 dd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #357
+Timestamp: 1751357319.999816
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b0 00 00 00 dd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #358
+Timestamp: 1751357319.999973
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b1 00 de
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #359
+Timestamp: 1751357320.006785
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b1 00 00 00 de
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #360
+Timestamp: 1751357320.006895
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b2 00 df
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #361
+Timestamp: 1751357320.011107
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b2 00 00 00 df
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #362
+Timestamp: 1751357320.011289
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b3 00 e0
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #363
+Timestamp: 1751357320.021037
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b3 00 00 00 e0
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #364
+Timestamp: 1751357320.021156
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b4 00 e1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #365
+Timestamp: 1751357320.025610
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b4 00 00 00 e1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #366
+Timestamp: 1751357320.025714
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b5 00 e2
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #367
+Timestamp: 1751357320.032995
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b5 00 00 00 e2
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #368
+Timestamp: 1751357320.033126
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b6 00 e3
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #369
+Timestamp: 1751357320.038876
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b6 00 00 00 e3
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #370
+Timestamp: 1751357320.038987
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9e 00 cb
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #371
+Timestamp: 1751357320.063710
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 9e 00 00 00 cb
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #372
+Timestamp: 1751357320.063911
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9f 00 cc
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #373
+Timestamp: 1751357320.069302
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 9f 00 00 01 cd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #374
+Timestamp: 1751357320.069401
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a0 00 cd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #375
+Timestamp: 1751357320.073871
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d a0 00 00 00 00 00 40 0d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #376
+Timestamp: 1751357320.074037
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a1 00 ce
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #377
+Timestamp: 1751357320.080665
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a1 00 00 00 ce
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #378
+Timestamp: 1751357320.080878
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a2 00 cf
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #379
+Timestamp: 1751357320.085636
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d a2 00 00 00 00 00 00 cf
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 2, Channel: 13
+--------------------------------------------------
+
+Packet #380
+Timestamp: 1751357321.077997
+Direction: SENT
+Length: 7 bytes
+Hex: 5d 06 01 77 02 00 dd
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 13
+--------------------------------------------------
+
+Packet #381
+Timestamp: 1751357321.092556
+Direction: RECEIVED
+Length: 5 bytes
+Hex: 5d 06 01 00 64
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 13
+--------------------------------------------------
+
+Packet #382
+Timestamp: 1751357321.092704
+Direction: SENT
+Length: 5 bytes
+Hex: 5d 03 01 0a 6b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 13
+--------------------------------------------------
+
+Packet #383
+Timestamp: 1751357321.097552
+Direction: RECEIVED
+Length: 5 bytes
+Hex: 5d 03 01 00 61
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 13
+--------------------------------------------------
+
+Packet #384
+Timestamp: 1751357321.198003
+Direction: RECEIVED
+Length: 10 bytes
+Hex: 52 01 be 39 25 dd 24 76 40 26
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 2
+--------------------------------------------------
+
+Packet #385
+Timestamp: 1751357321.301864
+Direction: RECEIVED
+Length: 10 bytes
+Hex: 52 01 22 3a 25 dd 24 76 40 8b
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 2
+--------------------------------------------------
+
+Packet #386
+Timestamp: 1751357321.396734
+Direction: RECEIVED
+Length: 10 bytes
+Hex: 52 01 86 3a 25 dd 24 76 40 ef
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 2
+--------------------------------------------------
+
+Packet #387
+Timestamp: 1751357321.496996
+Direction: RECEIVED
+Length: 10 bytes
+Hex: 52 01 ea 3a 25 06 81 75 40 d8
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 2
+--------------------------------------------------
+
+Packet #388
+Timestamp: 1751357321.597796
+Direction: RECEIVED
+Length: 10 bytes
+Hex: 52 01 4e 3b 25 06 81 75 40 3d
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 2
+--------------------------------------------------
+
+Packet #389
+Timestamp: 1751357321.697654
+Direction: RECEIVED
+Length: 10 bytes
+Hex: 52 01 b2 3b 25 06 81 75 40 a1
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 2
+--------------------------------------------------
+
+Packet #390
+Timestamp: 1751357321.796790
+Direction: RECEIVED
+Length: 10 bytes
+Hex: 52 01 17 3c 25 a6 9b 74 40 c0
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 2
+--------------------------------------------------
+
+Packet #391
+Timestamp: 1751357321.896441
+Direction: RECEIVED
+Length: 10 bytes
+Hex: 52 01 7a 3c 25 54 e3 75 40 1a
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 2
+--------------------------------------------------
+
+Packet #392
+Timestamp: 1751357321.997217
+Direction: RECEIVED
+Length: 10 bytes
+Hex: 52 01 de 3c 25 06 81 75 40 ce
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 2
+--------------------------------------------------
+
+Packet #393
+Timestamp: 1751357323.081132
+Direction: SENT
+Length: 4 bytes
+Hex: 5d 04 01 62
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 13
+--------------------------------------------------
+
+Packet #394
+Timestamp: 1751357323.091748
+Direction: RECEIVED
+Length: 5 bytes
+Hex: 5d 04 01 02 64
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 5, Channel: 13
+--------------------------------------------------
+
+Packet #395
+Timestamp: 1751357327.089442
+Direction: SENT
+Length: 16 bytes
+Hex: 3c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3c
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 3, Channel: 12
+--------------------------------------------------
+
+Packet #396
+Timestamp: 1751357327.089750
+Direction: SENT
+Length: 4 bytes
+Hex: ff 01 01 01
+Address: ('192.168.43.42', 2390)
+CRTP - Port: 15, Channel: 15
+--------------------------------------------------
+
