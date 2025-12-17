@@ -1,0 +1,5899 @@
+HEIGHT HOLD PACKET ANALYSIS
+==================================================
+
+Packet #1
+Timestamp: 1751445487.058421
+Direction: SENT
+Length: 4 bytes
+Hex: ff 01 01 01
+CRTP - Port: 15, Channel: 15
+------------------------------
+
+Packet #2
+Timestamp: 1751445487.058938
+Direction: SENT
+Length: 3 bytes
+Hex: fd 00 fd
+CRTP - Port: 15, Channel: 13
+------------------------------
+
+Packet #3
+Timestamp: 1751445487.082101
+Direction: RECEIVED
+Length: 32 bytes
+Hex: fd 42 69 74 63 72 61 7a 65 20 43 72 61 7a 79 66 6c 69 65 00 00 00 00 00 00 00 00 00 00 00 00 fa
+CRTP - Port: 15, Channel: 13
+------------------------------
+
+Packet #4
+Timestamp: 1751445487.082145
+Direction: SENT
+Length: 3 bytes
+Hex: dd 00 dd
+CRTP - Port: 13, Channel: 13
+------------------------------
+
+Packet #5
+Timestamp: 1751445487.090448
+Direction: RECEIVED
+Length: 7 bytes
+Hex: dd 00 04 00 00 00 e1
+CRTP - Port: 13, Channel: 13
+------------------------------
+
+Packet #6
+Timestamp: 1751445487.090477
+Direction: SENT
+Length: 3 bytes
+Hex: 5d 05 62
+CRTP - Port: 5, Channel: 13
+------------------------------
+
+Packet #7
+Timestamp: 1751445487.097276
+Direction: RECEIVED
+Length: 5 bytes
+Hex: 5d 05 01 00 63
+CRTP - Port: 5, Channel: 13
+------------------------------
+
+Packet #8
+Timestamp: 1751445487.097333
+Direction: SENT
+Length: 3 bytes
+Hex: 5c 03 5f
+CRTP - Port: 5, Channel: 12
+------------------------------
+
+Packet #9
+Timestamp: 1751445487.127991
+Direction: RECEIVED
+Length: 11 bytes
+Hex: 50 03 33 01 1c 2c 21 02 10 80 82
+CRTP - Port: 5, Channel: 0
+------------------------------
+
+Packet #10
+Timestamp: 1751445487.130188
+Direction: SENT
+Length: 3 bytes
+Hex: 4c 01 4d
+CRTP - Port: 4, Channel: 12
+------------------------------
+
+Packet #11
+Timestamp: 1751445487.134729
+Direction: RECEIVED
+Length: 4 bytes
+Hex: 40 01 00 41
+CRTP - Port: 4, Channel: 0
+------------------------------
+
+Packet #12
+Timestamp: 1751445487.134802
+Direction: SENT
+Length: 3 bytes
+Hex: 2c 03 2f
+CRTP - Port: 2, Channel: 12
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #13
+Timestamp: 1751445487.139441
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 20 03 b7 00 6c 26 ac a6 be
+CRTP - Port: 2, Channel: 0
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #14
+Timestamp: 1751445487.141764
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 00 00 2d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #15
+Timestamp: 1751445487.146537
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 00 00 00 01 2e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #16
+Timestamp: 1751445487.146589
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 01 00 2e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #17
+Timestamp: 1751445487.151260
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 01 00 00 00 2e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #18
+Timestamp: 1751445487.151300
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 24 00 51
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #19
+Timestamp: 1751445487.155852
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 24 00 00 00 51
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #20
+Timestamp: 1751445487.157871
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 02 00 2f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #21
+Timestamp: 1751445487.162377
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 02 00 00 00 2f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #22
+Timestamp: 1751445487.162421
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 03 00 30
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #23
+Timestamp: 1751445487.168474
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 03 00 00 00 00 00 3f 6f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #24
+Timestamp: 1751445487.168528
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 04 00 31
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #25
+Timestamp: 1751445487.173287
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 04 00 00 00 00 00 3f 70
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #26
+Timestamp: 1751445487.173329
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 05 00 32
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #27
+Timestamp: 1751445487.177827
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 05 00 00 00 32
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #28
+Timestamp: 1751445487.177876
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 06 00 33
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #29
+Timestamp: 1751445487.182215
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 06 00 00 00 33
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #30
+Timestamp: 1751445487.182243
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 07 00 34
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #31
+Timestamp: 1751445487.186890
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 07 00 00 00 00 00 3f 73
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #32
+Timestamp: 1751445487.186939
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 08 00 35
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #33
+Timestamp: 1751445487.191505
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 08 00 00 00 00 80 3f f4
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #34
+Timestamp: 1751445487.191548
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 09 00 36
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #35
+Timestamp: 1751445487.196013
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 09 00 00 00 00 00 00 36
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #36
+Timestamp: 1751445487.196052
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0a 00 37
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #37
+Timestamp: 1751445487.201251
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0a 00 00 00 00 00 00 37
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #38
+Timestamp: 1751445487.201289
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0b 00 38
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #39
+Timestamp: 1751445487.208010
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0b 00 00 00 00 00 00 38
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #40
+Timestamp: 1751445487.208048
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0c 00 39
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #41
+Timestamp: 1751445487.212561
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0c 00 00 00 00 00 40 79
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #42
+Timestamp: 1751445487.212606
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0d 00 3a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #43
+Timestamp: 1751445487.217016
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0d 00 00 cd cc cc 3d dc
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #44
+Timestamp: 1751445487.217108
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0e 00 3b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #45
+Timestamp: 1751445487.221581
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0e 00 00 cd cc cc 3d dd
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #46
+Timestamp: 1751445487.221672
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 0f 00 3c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #47
+Timestamp: 1751445487.226147
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 0f 00 00 00 00 00 00 3c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #48
+Timestamp: 1751445487.226195
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 10 00 3d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #49
+Timestamp: 1751445487.230893
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 10 00 00 00 00 00 00 3d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #50
+Timestamp: 1751445487.230937
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 11 00 3e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #51
+Timestamp: 1751445487.235482
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 11 00 00 00 00 00 00 3e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #52
+Timestamp: 1751445487.235526
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 12 00 3f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #53
+Timestamp: 1751445487.240110
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 12 00 00 00 00 00 00 3f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #54
+Timestamp: 1751445487.240164
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 13 00 40
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #55
+Timestamp: 1751445487.244853
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 13 00 00 00 00 c8 42 4a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #56
+Timestamp: 1751445487.244925
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 14 00 41
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #57
+Timestamp: 1751445487.250983
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 14 00 00 00 00 20 41 a2
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #58
+Timestamp: 1751445487.251301
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 15 00 42
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #59
+Timestamp: 1751445487.256504
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 15 00 00 00 42
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #60
+Timestamp: 1751445487.256805
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 16 00 43
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #61
+Timestamp: 1751445487.261437
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 16 00 00 00 00 00 00 43
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #62
+Timestamp: 1751445487.261542
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 17 00 44
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #63
+Timestamp: 1751445487.266031
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 17 00 00 00 44
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #64
+Timestamp: 1751445487.266164
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 18 00 45
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #65
+Timestamp: 1751445487.270633
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 18 00 00 00 00 45
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #66
+Timestamp: 1751445487.270749
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 19 00 46
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #67
+Timestamp: 1751445487.275421
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 19 00 00 00 00 46
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #68
+Timestamp: 1751445487.275585
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1a 00 47
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #69
+Timestamp: 1751445487.280359
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 1a 00 00 00 00 47
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #70
+Timestamp: 1751445487.281182
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1b 00 48
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #71
+Timestamp: 1751445487.287612
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 1b 00 00 00 00 48
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #72
+Timestamp: 1751445487.287945
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1c 00 49
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #73
+Timestamp: 1751445487.293773
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 1c 00 00 00 49
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #74
+Timestamp: 1751445487.294280
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1d 00 4a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #75
+Timestamp: 1751445487.299235
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 1d 00 00 0e 00 00 00 58
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #76
+Timestamp: 1751445487.299568
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1e 00 4b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #77
+Timestamp: 1751445487.304197
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 1e 00 00 a0 0f fa
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #78
+Timestamp: 1751445487.304415
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 1f 00 4c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #79
+Timestamp: 1751445487.310612
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 1f 00 00 00 4c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #80
+Timestamp: 1751445487.311023
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 20 00 4d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #81
+Timestamp: 1751445487.315745
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 20 00 00 01 4e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #82
+Timestamp: 1751445487.316147
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 21 00 4e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #83
+Timestamp: 1751445487.320744
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 21 00 00 01 4f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #84
+Timestamp: 1751445487.320840
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 22 00 4f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #85
+Timestamp: 1751445487.326643
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 22 00 00 00 4f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #86
+Timestamp: 1751445487.326812
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 23 00 50
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #87
+Timestamp: 1751445487.331737
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 23 00 00 00 50
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #88
+Timestamp: 1751445487.331808
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 25 00 52
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #89
+Timestamp: 1751445487.336392
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 25 00 00 00 00 00 00 52
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #90
+Timestamp: 1751445487.336483
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 26 00 53
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #91
+Timestamp: 1751445487.341186
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 26 00 00 01 00 54
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #92
+Timestamp: 1751445487.341273
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 27 00 54
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #93
+Timestamp: 1751445487.345923
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 27 00 00 00 54
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #94
+Timestamp: 1751445487.346005
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 28 00 55
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #95
+Timestamp: 1751445487.350473
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 28 00 00 00 00 34 44 cd
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #96
+Timestamp: 1751445487.350543
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 29 00 56
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #97
+Timestamp: 1751445487.355104
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 29 00 00 00 00 34 44 ce
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #98
+Timestamp: 1751445487.355200
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2a 00 57
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #99
+Timestamp: 1751445487.360019
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 2a 00 00 00 00 c8 43 62
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #100
+Timestamp: 1751445487.360065
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2b 00 58
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #101
+Timestamp: 1751445487.364635
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 2b 00 00 00 00 48 42 e2
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #102
+Timestamp: 1751445487.364664
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2c 00 59
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #103
+Timestamp: 1751445487.369244
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 2c 00 00 00 00 48 42 e3
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #104
+Timestamp: 1751445487.369296
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2d 00 5a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #105
+Timestamp: 1751445487.376021
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 2d 00 00 00 5a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #106
+Timestamp: 1751445487.376062
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2e 00 5b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #107
+Timestamp: 1751445487.380916
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 2e 00 00 00 5b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #108
+Timestamp: 1751445487.380952
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 2f 00 5c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #109
+Timestamp: 1751445487.385564
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 2f 00 00 00 5c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #110
+Timestamp: 1751445487.385602
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 30 00 5d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #111
+Timestamp: 1751445487.390143
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 30 00 00 02 5f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #112
+Timestamp: 1751445487.390179
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 31 00 5e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #113
+Timestamp: 1751445487.394935
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 31 00 00 00 5e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #114
+Timestamp: 1751445487.394969
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 32 00 5f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #115
+Timestamp: 1751445487.415209
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 32 00 00 01 60
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #116
+Timestamp: 1751445487.415247
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 33 00 60
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #117
+Timestamp: 1751445487.430913
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 33 00 00 01 61
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #118
+Timestamp: 1751445487.431008
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 34 00 61
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #119
+Timestamp: 1751445487.435828
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 34 00 00 00 61
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #120
+Timestamp: 1751445487.435875
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 35 00 62
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #121
+Timestamp: 1751445487.440428
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 35 00 00 01 63
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #122
+Timestamp: 1751445487.440473
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 36 00 63
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #123
+Timestamp: 1751445487.445255
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 36 00 00 00 63
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #124
+Timestamp: 1751445487.445300
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 37 00 64
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #125
+Timestamp: 1751445487.450050
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 37 00 00 00 64
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #126
+Timestamp: 1751445487.450094
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 38 00 65
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #127
+Timestamp: 1751445487.454646
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 38 00 00 00 65
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #128
+Timestamp: 1751445487.454690
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 39 00 66
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #129
+Timestamp: 1751445487.460103
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 39 00 00 00 66
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #130
+Timestamp: 1751445487.460150
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3a 00 67
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #131
+Timestamp: 1751445487.464773
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 3a 00 00 00 67
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #132
+Timestamp: 1751445487.464818
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3b 00 68
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #133
+Timestamp: 1751445487.469952
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 3b 00 00 00 00 96 43 41
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #134
+Timestamp: 1751445487.470010
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3c 00 69
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #135
+Timestamp: 1751445487.474604
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 3c 00 00 00 00 fa 46 a9
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #136
+Timestamp: 1751445487.474662
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3d 00 6a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #137
+Timestamp: 1751445487.479271
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 3d 00 00 00 00 a0 40 4a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #138
+Timestamp: 1751445487.479359
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3e 00 6b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #139
+Timestamp: 1751445487.483953
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 3e 00 00 00 00 a0 40 4b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #140
+Timestamp: 1751445487.484039
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 3f 00 6c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #141
+Timestamp: 1751445487.488452
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 3f 00 00 00 00 a0 40 4c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #142
+Timestamp: 1751445487.488525
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 40 00 6d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #143
+Timestamp: 1751445487.492981
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 40 00 00 49 bf d8 3b 88
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #144
+Timestamp: 1751445487.493056
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 41 00 6e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #145
+Timestamp: 1751445487.497594
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 41 00 00 9f cd aa 3b bf
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #146
+Timestamp: 1751445487.497661
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 42 00 6f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #147
+Timestamp: 1751445487.502685
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 42 00 00 fc 36 c4 ba 1f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #148
+Timestamp: 1751445487.502755
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 43 00 70
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #149
+Timestamp: 1751445487.508157
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 43 00 00 ed 58 36 38 23
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #150
+Timestamp: 1751445487.508239
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 44 00 71
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #151
+Timestamp: 1751445487.515354
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 44 00 00 00 00 c0 41 72
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #152
+Timestamp: 1751445487.515467
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 45 00 72
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #153
+Timestamp: 1751445487.520071
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 45 00 00 00 00 c0 41 73
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #154
+Timestamp: 1751445487.520159
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 46 00 73
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #155
+Timestamp: 1751445487.524812
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 46 00 00 00 00 c0 41 74
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #156
+Timestamp: 1751445487.524866
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 47 00 74
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #157
+Timestamp: 1751445487.531599
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 47 00 00 00 00 60 41 15
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #158
+Timestamp: 1751445487.531670
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 48 00 75
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #159
+Timestamp: 1751445487.536377
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 48 00 00 00 00 60 41 16
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #160
+Timestamp: 1751445487.536438
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 49 00 76
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #161
+Timestamp: 1751445487.540769
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 49 00 00 00 00 60 41 17
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #162
+Timestamp: 1751445487.540839
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4a 00 77
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #163
+Timestamp: 1751445487.545261
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 4a 00 00 a9 fb 00 3d 58
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #164
+Timestamp: 1751445487.545343
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4b 00 78
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #165
+Timestamp: 1751445487.549889
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 4b 00 00 a9 fb 00 3d 59
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #166
+Timestamp: 1751445487.549946
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4c 00 79
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #167
+Timestamp: 1751445487.555478
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 4c 00 00 a9 fb 00 3d 5a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #168
+Timestamp: 1751445487.555578
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4d 00 7a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #169
+Timestamp: 1751445487.560551
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 4d 00 00 00 00 00 41 bb
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #170
+Timestamp: 1751445487.560657
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4e 00 7b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #171
+Timestamp: 1751445487.566272
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 4e 00 00 00 00 00 41 bc
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #172
+Timestamp: 1751445487.566363
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 4f 00 7c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #173
+Timestamp: 1751445487.570917
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 4f 00 00 00 7c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #174
+Timestamp: 1751445487.571044
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 50 00 7d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #175
+Timestamp: 1751445487.576033
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 50 00 00 cd cc cc 3e 20
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #176
+Timestamp: 1751445487.576148
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 51 00 7e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #177
+Timestamp: 1751445487.580820
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 51 00 00 cd cc 4c 3e a1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #178
+Timestamp: 1751445487.580897
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 52 00 7f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #179
+Timestamp: 1751445487.587019
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 52 00 00 cd cc 4c 3d a1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #180
+Timestamp: 1751445487.587130
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 53 00 80
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #181
+Timestamp: 1751445487.591795
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 53 00 00 00 00 00 40 c0
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #182
+Timestamp: 1751445487.591898
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 54 00 81
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #183
+Timestamp: 1751445487.596486
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 54 00 00 00 00 a0 3f 60
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #184
+Timestamp: 1751445487.596553
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 55 00 82
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #185
+Timestamp: 1751445487.601129
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 55 00 00 cd cc cc 3e 25
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #186
+Timestamp: 1751445487.601192
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 56 00 83
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #187
+Timestamp: 1751445487.610031
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 56 00 00 cd cc 4c 3d a5
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #188
+Timestamp: 1751445487.610102
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 57 00 84
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #189
+Timestamp: 1751445487.614575
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 57 00 00 cd cc cc 3e 27
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #190
+Timestamp: 1751445487.614644
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 58 00 85
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #191
+Timestamp: 1751445487.619457
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 58 00 00 1b 2f dd 3c e8
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #192
+Timestamp: 1751445487.619531
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 59 00 86
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #193
+Timestamp: 1751445487.625894
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 59 00 00 00 e8 00 48 b6
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #194
+Timestamp: 1751445487.625965
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5a 00 87
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #195
+Timestamp: 1751445487.630431
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5a 00 00 00 b8 88 47 0e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #196
+Timestamp: 1751445487.630500
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5b 00 88
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #197
+Timestamp: 1751445487.635297
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5b 00 00 00 60 6a 47 99
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #198
+Timestamp: 1751445487.635383
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5c 00 89
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #199
+Timestamp: 1751445487.639957
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5c 00 00 00 40 9c 46 ab
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #200
+Timestamp: 1751445487.640042
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5d 00 8a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #201
+Timestamp: 1751445487.644416
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5d 00 00 00 80 3b 46 8b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #202
+Timestamp: 1751445487.644501
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5e 00 8b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #203
+Timestamp: 1751445487.651005
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5e 00 00 00 00 00 00 8b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #204
+Timestamp: 1751445487.651089
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 5f 00 8c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #205
+Timestamp: 1751445487.657183
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 5f 00 00 00 00 fa 43 c9
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #206
+Timestamp: 1751445487.657267
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 60 00 8d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #207
+Timestamp: 1751445487.662018
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 60 00 00 00 00 48 43 18
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #208
+Timestamp: 1751445487.662103
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 61 00 8e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #209
+Timestamp: 1751445487.666853
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 61 00 00 00 00 80 3f 4d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #210
+Timestamp: 1751445487.666964
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 62 00 8f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #211
+Timestamp: 1751445487.671491
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 62 00 00 00 80 bb 44 0e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #212
+Timestamp: 1751445487.671602
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 63 00 90
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #213
+Timestamp: 1751445487.677508
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 63 00 00 00 90
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #214
+Timestamp: 1751445487.677742
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 64 00 91
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #215
+Timestamp: 1751445487.682328
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 64 00 00 00 00 80 3f 50
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #216
+Timestamp: 1751445487.682528
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 65 00 92
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #217
+Timestamp: 1751445487.687347
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 65 00 00 00 00 80 3f 51
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #218
+Timestamp: 1751445487.687659
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 66 00 93
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #219
+Timestamp: 1751445487.692597
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 66 00 00 00 00 80 3f 52
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #220
+Timestamp: 1751445487.692780
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 67 00 94
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #221
+Timestamp: 1751445487.707929
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 67 00 00 00 00 a0 40 74
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #222
+Timestamp: 1751445487.708101
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 68 00 95
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #223
+Timestamp: 1751445487.728412
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 68 00 00 00 00 a0 40 75
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #224
+Timestamp: 1751445487.728631
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 69 00 96
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #225
+Timestamp: 1751445487.733334
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 69 00 00 00 00 a0 40 76
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #226
+Timestamp: 1751445487.733410
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6a 00 97
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #227
+Timestamp: 1751445487.740976
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6a 00 00 33 33 f3 3f 2f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #228
+Timestamp: 1751445487.741127
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6b 00 98
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #229
+Timestamp: 1751445487.747233
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6b 00 00 cd cc cc 3d 3a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #230
+Timestamp: 1751445487.747299
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6c 00 99
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #231
+Timestamp: 1751445487.751982
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6c 00 00 00 00 00 00 99
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #232
+Timestamp: 1751445487.752110
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6d 00 9a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #233
+Timestamp: 1751445487.756645
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6d 00 00 33 33 f3 3f 32
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #234
+Timestamp: 1751445487.756768
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6e 00 9b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #235
+Timestamp: 1751445487.761409
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6e 00 00 cd cc cc 3d 3d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #236
+Timestamp: 1751445487.761567
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 6f 00 9c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #237
+Timestamp: 1751445487.767604
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 6f 00 00 00 00 00 00 9c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #238
+Timestamp: 1751445487.767719
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 70 00 9d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #239
+Timestamp: 1751445487.773091
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 70 00 00 cd cc cc 3f 41
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #240
+Timestamp: 1751445487.773153
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 71 00 9e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #241
+Timestamp: 1751445487.778167
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 71 00 00 00 00 00 3f dd
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #242
+Timestamp: 1751445487.778232
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 72 00 9f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #243
+Timestamp: 1751445487.782817
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 72 00 00 00 00 00 00 9f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #244
+Timestamp: 1751445487.782893
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 73 00 a0
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #245
+Timestamp: 1751445487.787656
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 73 00 00 c0 5d bd
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #246
+Timestamp: 1751445487.787717
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 74 00 a1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #247
+Timestamp: 1751445487.792817
+Direction: RECEIVED
+Length: 7 bytes
+Hex: 2d 74 00 00 88 13 3c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #248
+Timestamp: 1751445487.792898
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 75 00 a2
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #249
+Timestamp: 1751445487.797592
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 75 00 00 00 00 a0 41 83
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #250
+Timestamp: 1751445487.797648
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 76 00 a3
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #251
+Timestamp: 1751445487.802940
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 76 00 00 00 00 80 3f 62
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #252
+Timestamp: 1751445487.803014
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 77 00 a4
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #253
+Timestamp: 1751445487.807732
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 77 00 00 00 00 80 3f 63
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #254
+Timestamp: 1751445487.807791
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 78 00 a5
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #255
+Timestamp: 1751445487.813901
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 78 00 00 00 00 c8 41 ae
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #256
+Timestamp: 1751445487.813964
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 79 00 a6
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #257
+Timestamp: 1751445487.818819
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 79 00 00 00 00 80 3f 65
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #258
+Timestamp: 1751445487.818878
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7a 00 a7
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #259
+Timestamp: 1751445487.824678
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7a 00 00 00 00 00 00 a7
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #260
+Timestamp: 1751445487.824739
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7b 00 a8
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #261
+Timestamp: 1751445487.832472
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7b 00 00 00 00 c8 41 b1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #262
+Timestamp: 1751445487.832550
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7c 00 a9
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #263
+Timestamp: 1751445487.838527
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7c 00 00 00 00 80 3f 68
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #264
+Timestamp: 1751445487.838596
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7d 00 aa
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #265
+Timestamp: 1751445487.843033
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7d 00 00 00 00 00 00 aa
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #266
+Timestamp: 1751445487.843100
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7e 00 ab
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #267
+Timestamp: 1751445487.847750
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7e 00 00 00 00 b0 41 9c
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #268
+Timestamp: 1751445487.847817
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 7f 00 ac
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #269
+Timestamp: 1751445487.852650
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 7f 00 00 00 00 70 41 5d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #270
+Timestamp: 1751445487.852719
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 80 00 ad
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #271
+Timestamp: 1751445487.857212
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 80 00 00 00 00 00 00 ad
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #272
+Timestamp: 1751445487.857291
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 81 00 ae
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #273
+Timestamp: 1751445487.862027
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 81 00 00 64 3b 7f 3f 0b
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #274
+Timestamp: 1751445487.862112
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 82 00 af
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #275
+Timestamp: 1751445487.866806
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 82 00 00 66 66 66 3f 20
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #276
+Timestamp: 1751445487.866888
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 83 00 b0
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #277
+Timestamp: 1751445487.871692
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 83 00 00 00 00 80 3f 6f
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #278
+Timestamp: 1751445487.871772
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 84 00 b1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #279
+Timestamp: 1751445487.876345
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 84 00 00 52 b8 7e 3f 78
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #280
+Timestamp: 1751445487.876426
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 85 00 b2
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #281
+Timestamp: 1751445487.881070
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 85 00 00 0a d7 23 3d f3
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #282
+Timestamp: 1751445487.881168
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 86 00 b3
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #283
+Timestamp: 1751445487.886276
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 86 00 00 cd cc 4c 3f d7
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #284
+Timestamp: 1751445487.886375
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 87 00 b4
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #285
+Timestamp: 1751445487.890803
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 87 00 00 6f 12 03 3b 73
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #286
+Timestamp: 1751445487.890982
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 88 00 b5
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #287
+Timestamp: 1751445487.895483
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 88 00 00 16 6d 71 3f e8
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #288
+Timestamp: 1751445487.895609
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 89 00 b6
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #289
+Timestamp: 1751445487.900825
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 89 00 00 00 00 3e 43 37
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #290
+Timestamp: 1751445487.900945
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8a 00 b7
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #291
+Timestamp: 1751445487.905487
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8a 00 00 00 00 dc 43 d6
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #292
+Timestamp: 1751445487.905585
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8b 00 b8
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #293
+Timestamp: 1751445487.910140
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8b 00 00 66 66 26 40 ea
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #294
+Timestamp: 1751445487.910249
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8c 00 b9
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #295
+Timestamp: 1751445487.916398
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8c 00 00 00 00 3e 43 3a
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #296
+Timestamp: 1751445487.916565
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8d 00 ba
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #297
+Timestamp: 1751445487.921314
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8d 00 00 00 00 dc 43 d9
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #298
+Timestamp: 1751445487.921414
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8e 00 bb
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #299
+Timestamp: 1751445487.926591
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8e 00 00 66 66 26 40 ed
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #300
+Timestamp: 1751445487.926686
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 8f 00 bc
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #301
+Timestamp: 1751445487.931687
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 8f 00 00 00 00 f0 42 ee
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #302
+Timestamp: 1751445487.931787
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 90 00 bd
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #303
+Timestamp: 1751445487.936812
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 90 00 00 9a 99 85 41 b6
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #304
+Timestamp: 1751445487.936927
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 91 00 be
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #305
+Timestamp: 1751445487.942775
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 91 00 00 00 00 00 00 be
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #306
+Timestamp: 1751445487.942926
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 92 00 bf
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #307
+Timestamp: 1751445487.947520
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 92 00 00 9a 99 a9 40 db
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #308
+Timestamp: 1751445487.947656
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 93 00 c0
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #309
+Timestamp: 1751445487.952514
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 93 00 00 00 00 20 40 20
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #310
+Timestamp: 1751445487.952658
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 94 00 c1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #311
+Timestamp: 1751445487.957987
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 94 00 00 00 00 00 00 c1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #312
+Timestamp: 1751445487.958129
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 95 00 c2
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #313
+Timestamp: 1751445487.963000
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 95 00 00 9a 99 a9 40 de
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #314
+Timestamp: 1751445487.963145
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 96 00 c3
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #315
+Timestamp: 1751445487.968024
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 96 00 00 00 00 20 40 23
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #316
+Timestamp: 1751445487.968142
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 97 00 c4
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #317
+Timestamp: 1751445487.972751
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 97 00 00 00 00 00 00 c4
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #318
+Timestamp: 1751445487.972838
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 98 00 c5
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #319
+Timestamp: 1751445487.977827
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 98 00 00 00 00 c0 40 c5
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #320
+Timestamp: 1751445487.977924
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 99 00 c6
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #321
+Timestamp: 1751445487.982589
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 99 00 00 00 00 80 3f 85
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #322
+Timestamp: 1751445487.982725
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9a 00 c7
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #323
+Timestamp: 1751445487.987687
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d 9a 00 00 33 33 b3 3e 1e
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #324
+Timestamp: 1751445487.987810
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9b 00 c8
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #325
+Timestamp: 1751445487.992891
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 9b 00 00 01 c9
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #326
+Timestamp: 1751445487.992997
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9c 00 c9
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #327
+Timestamp: 1751445488.024194
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 9c 00 00 00 c9
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #328
+Timestamp: 1751445488.024348
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9d 00 ca
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #329
+Timestamp: 1751445488.030787
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 9d 00 00 00 ca
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #330
+Timestamp: 1751445488.030900
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a3 00 d0
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #331
+Timestamp: 1751445488.035470
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a3 00 00 01 d1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #332
+Timestamp: 1751445488.035578
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a4 00 d1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #333
+Timestamp: 1751445488.039949
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a4 00 00 00 d1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #334
+Timestamp: 1751445488.040054
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a5 00 d2
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #335
+Timestamp: 1751445488.045027
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a5 00 00 00 d2
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #336
+Timestamp: 1751445488.045133
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a6 00 d3
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #337
+Timestamp: 1751445488.049778
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a6 00 00 00 d3
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #338
+Timestamp: 1751445488.049910
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a7 00 d4
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #339
+Timestamp: 1751445488.056536
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a7 00 00 00 d4
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #340
+Timestamp: 1751445488.056668
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a8 00 d5
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #341
+Timestamp: 1751445488.061414
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a8 00 00 00 d5
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #342
+Timestamp: 1751445488.061691
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a9 00 d6
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #343
+Timestamp: 1751445488.064134
+Direction: SENT
+Length: 16 bytes
+Hex: 3c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3c
+CRTP - Port: 3, Channel: 12
+Type: COMMANDER PACKET
+Subtype: Likely hover setpoint (vx, vy, yaw, height)
+------------------------------
+
+Packet #344
+Timestamp: 1751445488.065854
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a9 00 00 00 d6
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #345
+Timestamp: 1751445488.066082
+Direction: SENT
+Length: 4 bytes
+Hex: 2d aa 00 d7
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #346
+Timestamp: 1751445488.070612
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d aa 00 00 00 d7
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #347
+Timestamp: 1751445488.070830
+Direction: SENT
+Length: 4 bytes
+Hex: 2d ab 00 d8
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #348
+Timestamp: 1751445488.075795
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d ab 00 00 00 d8
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #349
+Timestamp: 1751445488.076025
+Direction: SENT
+Length: 4 bytes
+Hex: 2d ac 00 d9
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #350
+Timestamp: 1751445488.080810
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d ac 00 00 00 d9
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #351
+Timestamp: 1751445488.081183
+Direction: SENT
+Length: 4 bytes
+Hex: 2d ad 00 da
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #352
+Timestamp: 1751445488.085807
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d ad 00 00 00 da
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #353
+Timestamp: 1751445488.086011
+Direction: SENT
+Length: 4 bytes
+Hex: 2d ae 00 db
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #354
+Timestamp: 1751445488.090673
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d ae 00 00 00 db
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #355
+Timestamp: 1751445488.090857
+Direction: SENT
+Length: 4 bytes
+Hex: 2d af 00 dc
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #356
+Timestamp: 1751445488.095446
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d af 00 00 00 dc
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #357
+Timestamp: 1751445488.095804
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b0 00 dd
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #358
+Timestamp: 1751445488.100979
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b0 00 00 00 dd
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #359
+Timestamp: 1751445488.101169
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b1 00 de
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #360
+Timestamp: 1751445488.105909
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b1 00 00 00 de
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #361
+Timestamp: 1751445488.106063
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b2 00 df
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #362
+Timestamp: 1751445488.112581
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b2 00 00 00 df
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #363
+Timestamp: 1751445488.112750
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b3 00 e0
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #364
+Timestamp: 1751445488.117048
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b3 00 00 00 e0
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #365
+Timestamp: 1751445488.117183
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b4 00 e1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #366
+Timestamp: 1751445488.122951
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b4 00 00 00 e1
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #367
+Timestamp: 1751445488.123136
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b5 00 e2
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #368
+Timestamp: 1751445488.129572
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b5 00 00 00 e2
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #369
+Timestamp: 1751445488.129714
+Direction: SENT
+Length: 4 bytes
+Hex: 2d b6 00 e3
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #370
+Timestamp: 1751445488.134151
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d b6 00 00 00 e3
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #371
+Timestamp: 1751445488.134280
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9e 00 cb
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #372
+Timestamp: 1751445488.139109
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 9e 00 00 00 cb
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #373
+Timestamp: 1751445488.139225
+Direction: SENT
+Length: 4 bytes
+Hex: 2d 9f 00 cc
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #374
+Timestamp: 1751445488.145837
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d 9f 00 00 01 cd
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #375
+Timestamp: 1751445488.146004
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a0 00 cd
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #376
+Timestamp: 1751445488.150581
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d a0 00 00 00 00 00 40 0d
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #377
+Timestamp: 1751445488.150716
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a1 00 ce
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #378
+Timestamp: 1751445488.155154
+Direction: RECEIVED
+Length: 6 bytes
+Hex: 2d a1 00 00 00 ce
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #379
+Timestamp: 1751445488.155316
+Direction: SENT
+Length: 4 bytes
+Hex: 2d a2 00 cf
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #380
+Timestamp: 1751445488.160166
+Direction: RECEIVED
+Length: 9 bytes
+Hex: 2d a2 00 00 00 00 00 00 cf
+CRTP - Port: 2, Channel: 13
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #381
+Timestamp: 1751445488.169559
+Direction: SENT
+Length: 5 bytes
+Hex: 2e 02 00 01 31
+CRTP - Port: 2, Channel: 14
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #382
+Timestamp: 1751445488.174748
+Direction: RECEIVED
+Length: 5 bytes
+Hex: 2e 02 00 01 31
+CRTP - Port: 2, Channel: 14
+Type: PARAMETER PACKET
+------------------------------
+
+Packet #383
+Timestamp: 1751445488.674803
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3f c0
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #384
+Timestamp: 1751445491.676560
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3f 40
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #385
+Timestamp: 1751445494.679747
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 0a d7 23 3c 00 00 00 00 00 00 00 00 cd cc 4c 3f e5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #386
+Timestamp: 1751445497.683593
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 0a d7 23 3c 00 00 00 00 cd cc 4c 3f e5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #387
+Timestamp: 1751445500.686356
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #388
+Timestamp: 1751445503.694527
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 9a 99 99 3e 00 00 00 00 00 00 00 00 cd cc 4c 3f af
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #389
+Timestamp: 1751445506.698793
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #390
+Timestamp: 1751445509.704618
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 cd cc 4c 3e 00 00 00 00 9a 99 99 3f af
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #391
+Timestamp: 1751445512.708039
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 cd cc cc 3d cd cc cc 3d 00 00 00 00 33 33 33 3f 9d
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #392
+Timestamp: 1751445515.714568
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc cc 3e 24
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #393
+Timestamp: 1751445517.218352
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3f 40
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #394
+Timestamp: 1751445518.719424
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 9a 99 19 3f 0c
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #395
+Timestamp: 1751445520.225073
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 f0 41 00 00 00 3f f1
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #396
+Timestamp: 1751445523.227950
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3f c0
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #397
+Timestamp: 1751445526.229745
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 81
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #398
+Timestamp: 1751445529.230717
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 9a 99 19 3f 0c
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #399
+Timestamp: 1751445532.234788
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #400
+Timestamp: 1751445532.340564
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #401
+Timestamp: 1751445532.442415
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #402
+Timestamp: 1751445532.546163
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #403
+Timestamp: 1751445532.651562
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #404
+Timestamp: 1751445532.753891
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #405
+Timestamp: 1751445532.854148
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #406
+Timestamp: 1751445532.954612
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #407
+Timestamp: 1751445533.059844
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #408
+Timestamp: 1751445533.161566
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #409
+Timestamp: 1751445533.266728
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #410
+Timestamp: 1751445533.371917
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #411
+Timestamp: 1751445533.477127
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #412
+Timestamp: 1751445533.580059
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #413
+Timestamp: 1751445533.685570
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #414
+Timestamp: 1751445533.789030
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #415
+Timestamp: 1751445533.893402
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #416
+Timestamp: 1751445533.998204
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #417
+Timestamp: 1751445534.100168
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #418
+Timestamp: 1751445534.204549
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #419
+Timestamp: 1751445534.306651
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #420
+Timestamp: 1751445534.412009
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #421
+Timestamp: 1751445534.514201
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #422
+Timestamp: 1751445534.617918
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #423
+Timestamp: 1751445534.723499
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #424
+Timestamp: 1751445534.829125
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #425
+Timestamp: 1751445534.934629
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #426
+Timestamp: 1751445535.040015
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #427
+Timestamp: 1751445535.142666
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #428
+Timestamp: 1751445535.246218
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #429
+Timestamp: 1751445535.349094
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #430
+Timestamp: 1751445535.450492
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #431
+Timestamp: 1751445535.556144
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #432
+Timestamp: 1751445535.658827
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #433
+Timestamp: 1751445535.763397
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #434
+Timestamp: 1751445535.864412
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #435
+Timestamp: 1751445535.968086
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #436
+Timestamp: 1751445536.073498
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #437
+Timestamp: 1751445536.176039
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #438
+Timestamp: 1751445536.279457
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #439
+Timestamp: 1751445536.384857
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #440
+Timestamp: 1751445536.487450
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #441
+Timestamp: 1751445536.592173
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #442
+Timestamp: 1751445536.694655
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #443
+Timestamp: 1751445536.797914
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #444
+Timestamp: 1751445536.902312
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #445
+Timestamp: 1751445537.007785
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #446
+Timestamp: 1751445537.113395
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #447
+Timestamp: 1751445537.214550
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #448
+Timestamp: 1751445537.315684
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #449
+Timestamp: 1751445537.421139
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #450
+Timestamp: 1751445537.525738
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #451
+Timestamp: 1751445537.630249
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #452
+Timestamp: 1751445537.735678
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #453
+Timestamp: 1751445537.836553
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #454
+Timestamp: 1751445537.942198
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #455
+Timestamp: 1751445538.046509
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #456
+Timestamp: 1751445538.152300
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #457
+Timestamp: 1751445538.257664
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #458
+Timestamp: 1751445538.363240
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #459
+Timestamp: 1751445538.466916
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #460
+Timestamp: 1751445538.569105
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #461
+Timestamp: 1751445538.674413
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #462
+Timestamp: 1751445538.779806
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #463
+Timestamp: 1751445538.881592
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #464
+Timestamp: 1751445538.987104
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #465
+Timestamp: 1751445539.092706
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #466
+Timestamp: 1751445539.198296
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #467
+Timestamp: 1751445539.303916
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #468
+Timestamp: 1751445539.409296
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #469
+Timestamp: 1751445539.510789
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #470
+Timestamp: 1751445539.616266
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #471
+Timestamp: 1751445539.721790
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #472
+Timestamp: 1751445539.825176
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #473
+Timestamp: 1751445539.930501
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #474
+Timestamp: 1751445540.032013
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #475
+Timestamp: 1751445540.137547
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #476
+Timestamp: 1751445540.240234
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #477
+Timestamp: 1751445540.345564
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #478
+Timestamp: 1751445540.451080
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #479
+Timestamp: 1751445540.554923
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #480
+Timestamp: 1751445540.659677
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #481
+Timestamp: 1751445540.760733
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #482
+Timestamp: 1751445540.866405
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #483
+Timestamp: 1751445540.971995
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #484
+Timestamp: 1751445541.077523
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #485
+Timestamp: 1751445541.179717
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #486
+Timestamp: 1751445541.285319
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #487
+Timestamp: 1751445541.388868
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #488
+Timestamp: 1751445541.493511
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #489
+Timestamp: 1751445541.597827
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #490
+Timestamp: 1751445541.703378
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #491
+Timestamp: 1751445541.808771
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #492
+Timestamp: 1751445541.914233
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #493
+Timestamp: 1751445542.019579
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #494
+Timestamp: 1751445542.123353
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #495
+Timestamp: 1751445542.227648
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #496
+Timestamp: 1751445542.333399
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #497
+Timestamp: 1751445542.438540
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #498
+Timestamp: 1751445542.539965
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #499
+Timestamp: 1751445542.644252
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #500
+Timestamp: 1751445542.749957
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #501
+Timestamp: 1751445542.855637
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #502
+Timestamp: 1751445542.957496
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #503
+Timestamp: 1751445543.062908
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #504
+Timestamp: 1751445543.168809
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #505
+Timestamp: 1751445543.273846
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #506
+Timestamp: 1751445543.379453
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #507
+Timestamp: 1751445543.484813
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #508
+Timestamp: 1751445543.589812
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #509
+Timestamp: 1751445543.695314
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #510
+Timestamp: 1751445543.800027
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #511
+Timestamp: 1751445543.904458
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #512
+Timestamp: 1751445544.010031
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #513
+Timestamp: 1751445544.114901
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #514
+Timestamp: 1751445544.220392
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #515
+Timestamp: 1751445544.325602
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #516
+Timestamp: 1751445544.430553
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #517
+Timestamp: 1751445544.531673
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #518
+Timestamp: 1751445544.632727
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #519
+Timestamp: 1751445544.736129
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #520
+Timestamp: 1751445544.841333
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #521
+Timestamp: 1751445544.943957
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #522
+Timestamp: 1751445545.046669
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #523
+Timestamp: 1751445545.147225
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #524
+Timestamp: 1751445545.252603
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #525
+Timestamp: 1751445545.357121
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #526
+Timestamp: 1751445545.462752
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #527
+Timestamp: 1751445545.566131
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #528
+Timestamp: 1751445545.671174
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #529
+Timestamp: 1751445545.774211
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #530
+Timestamp: 1751445545.877225
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #531
+Timestamp: 1751445545.980849
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #532
+Timestamp: 1751445546.086420
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #533
+Timestamp: 1751445546.187854
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #534
+Timestamp: 1751445546.290572
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #535
+Timestamp: 1751445546.396044
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #536
+Timestamp: 1751445546.497410
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #537
+Timestamp: 1751445546.602711
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #538
+Timestamp: 1751445546.707613
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #539
+Timestamp: 1751445546.812733
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #540
+Timestamp: 1751445546.918032
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #541
+Timestamp: 1751445547.021077
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #542
+Timestamp: 1751445547.123623
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #543
+Timestamp: 1751445547.223869
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #544
+Timestamp: 1751445547.329200
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #545
+Timestamp: 1751445547.434479
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #546
+Timestamp: 1751445547.536685
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #547
+Timestamp: 1751445547.642340
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #548
+Timestamp: 1751445547.747449
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #549
+Timestamp: 1751445547.852633
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #550
+Timestamp: 1751445547.957871
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #551
+Timestamp: 1751445548.063090
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #552
+Timestamp: 1751445548.166577
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #553
+Timestamp: 1751445548.272860
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #554
+Timestamp: 1751445548.379473
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #555
+Timestamp: 1751445548.481381
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #556
+Timestamp: 1751445548.586713
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #557
+Timestamp: 1751445548.690856
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #558
+Timestamp: 1751445548.795068
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #559
+Timestamp: 1751445548.898237
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #560
+Timestamp: 1751445549.000419
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #561
+Timestamp: 1751445549.104403
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #562
+Timestamp: 1751445549.207113
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #563
+Timestamp: 1751445549.312436
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #564
+Timestamp: 1751445549.413708
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #565
+Timestamp: 1751445549.514881
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #566
+Timestamp: 1751445549.624954
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #567
+Timestamp: 1751445549.730481
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #568
+Timestamp: 1751445549.831969
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #569
+Timestamp: 1751445549.936969
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #570
+Timestamp: 1751445550.040474
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #571
+Timestamp: 1751445550.145283
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #572
+Timestamp: 1751445550.250652
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #573
+Timestamp: 1751445550.352504
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #574
+Timestamp: 1751445550.452858
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #575
+Timestamp: 1751445550.558219
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #576
+Timestamp: 1751445550.663194
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #577
+Timestamp: 1751445550.768449
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #578
+Timestamp: 1751445550.873161
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #579
+Timestamp: 1751445550.978486
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #580
+Timestamp: 1751445551.083713
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #581
+Timestamp: 1751445551.188385
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #582
+Timestamp: 1751445551.292718
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #583
+Timestamp: 1751445551.394387
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #584
+Timestamp: 1751445551.498466
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #585
+Timestamp: 1751445551.600599
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #586
+Timestamp: 1751445551.706206
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #587
+Timestamp: 1751445551.811668
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #588
+Timestamp: 1751445551.916351
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #589
+Timestamp: 1751445552.023343
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #590
+Timestamp: 1751445552.124850
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #591
+Timestamp: 1751445552.227351
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #592
+Timestamp: 1751445552.332894
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #593
+Timestamp: 1751445552.437615
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #594
+Timestamp: 1751445552.541497
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #595
+Timestamp: 1751445552.646960
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #596
+Timestamp: 1751445552.752354
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #597
+Timestamp: 1751445552.856690
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #598
+Timestamp: 1751445552.960339
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #599
+Timestamp: 1751445553.064843
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #600
+Timestamp: 1751445553.170028
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #601
+Timestamp: 1751445553.275330
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #602
+Timestamp: 1751445553.381310
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #603
+Timestamp: 1751445553.487102
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #604
+Timestamp: 1751445553.590468
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #605
+Timestamp: 1751445553.691957
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #606
+Timestamp: 1751445553.797209
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #607
+Timestamp: 1751445553.902420
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #608
+Timestamp: 1751445554.005890
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #609
+Timestamp: 1751445554.111536
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #610
+Timestamp: 1751445554.214671
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #611
+Timestamp: 1751445554.320458
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #612
+Timestamp: 1751445554.426067
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #613
+Timestamp: 1751445554.531531
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #614
+Timestamp: 1751445554.637141
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #615
+Timestamp: 1751445554.740581
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #616
+Timestamp: 1751445554.845734
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #617
+Timestamp: 1751445554.951006
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #618
+Timestamp: 1751445555.055718
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #619
+Timestamp: 1751445555.156599
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #620
+Timestamp: 1751445555.261312
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #621
+Timestamp: 1751445555.365476
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #622
+Timestamp: 1751445555.469299
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #623
+Timestamp: 1751445555.574304
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #624
+Timestamp: 1751445555.675414
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #625
+Timestamp: 1751445555.777300
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #626
+Timestamp: 1751445555.878544
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #627
+Timestamp: 1751445555.983927
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #628
+Timestamp: 1751445556.089331
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #629
+Timestamp: 1751445556.194654
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #630
+Timestamp: 1751445556.299086
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #631
+Timestamp: 1751445556.404435
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #632
+Timestamp: 1751445556.510051
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #633
+Timestamp: 1751445556.615473
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #634
+Timestamp: 1751445556.721089
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #635
+Timestamp: 1751445556.823794
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #636
+Timestamp: 1751445556.929518
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #637
+Timestamp: 1751445557.031440
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #638
+Timestamp: 1751445557.132876
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #639
+Timestamp: 1751445557.238126
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #640
+Timestamp: 1751445557.341928
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #641
+Timestamp: 1751445557.447223
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #642
+Timestamp: 1751445557.549027
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #643
+Timestamp: 1751445557.654711
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #644
+Timestamp: 1751445557.760122
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #645
+Timestamp: 1751445557.865464
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #646
+Timestamp: 1751445557.967692
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #647
+Timestamp: 1751445558.069331
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #648
+Timestamp: 1751445558.170527
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #649
+Timestamp: 1751445558.276214
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #650
+Timestamp: 1751445558.381556
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #651
+Timestamp: 1751445558.486994
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #652
+Timestamp: 1751445558.590377
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #653
+Timestamp: 1751445558.695965
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #654
+Timestamp: 1751445558.801486
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #655
+Timestamp: 1751445558.906950
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #656
+Timestamp: 1751445559.014355
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #657
+Timestamp: 1751445559.119843
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #658
+Timestamp: 1751445559.221287
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #659
+Timestamp: 1751445559.323732
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #660
+Timestamp: 1751445559.426767
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #661
+Timestamp: 1751445559.530589
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #662
+Timestamp: 1751445559.631540
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #663
+Timestamp: 1751445559.737263
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #664
+Timestamp: 1751445559.841087
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #665
+Timestamp: 1751445559.946704
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #666
+Timestamp: 1751445560.050038
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #667
+Timestamp: 1751445560.155716
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #668
+Timestamp: 1751445560.256924
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #669
+Timestamp: 1751445560.361796
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #670
+Timestamp: 1751445560.466232
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #671
+Timestamp: 1751445560.571705
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #672
+Timestamp: 1751445560.677091
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #673
+Timestamp: 1751445560.781531
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #674
+Timestamp: 1751445560.883183
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #675
+Timestamp: 1751445560.987780
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #676
+Timestamp: 1751445561.093550
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #677
+Timestamp: 1751445561.196009
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #678
+Timestamp: 1751445561.296654
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #679
+Timestamp: 1751445561.401474
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #680
+Timestamp: 1751445561.507017
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #681
+Timestamp: 1751445561.612349
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #682
+Timestamp: 1751445561.715521
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #683
+Timestamp: 1751445561.821003
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #684
+Timestamp: 1751445561.926558
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #685
+Timestamp: 1751445562.031572
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #686
+Timestamp: 1751445562.137148
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3f a5
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #687
+Timestamp: 1751445562.241074
+Direction: SENT
+Length: 19 bytes
+Hex: 7c 05 00 00 00 00 00 00 00 00 00 00 00 00 cd cc 4c 3e a4
+CRTP - Port: 7, Channel: 12
+------------------------------
+
+Packet #688
+Timestamp: 1751445564.245323
+Direction: SENT
+Length: 16 bytes
+Hex: 3c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3c
+CRTP - Port: 3, Channel: 12
+Type: COMMANDER PACKET
+Subtype: Likely hover setpoint (vx, vy, yaw, height)
+------------------------------
+
+Packet #689
+Timestamp: 1751445564.750333
+Direction: SENT
+Length: 16 bytes
+Hex: 3c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3c
+CRTP - Port: 3, Channel: 12
+Type: COMMANDER PACKET
+Subtype: Likely hover setpoint (vx, vy, yaw, height)
+------------------------------
+
+Packet #690
+Timestamp: 1751445564.750876
+Direction: SENT
+Length: 4 bytes
+Hex: ff 01 01 01
+CRTP - Port: 15, Channel: 15
+------------------------------
+
