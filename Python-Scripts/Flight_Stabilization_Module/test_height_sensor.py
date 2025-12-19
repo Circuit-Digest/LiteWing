@@ -1,6 +1,6 @@
 """Standalone height sensor test for the LiteWing flight stabilizer shield.
 
-Streams altitude data (state estimator + range sensor) to the console and a
+Streams height data (state estimator + range sensor) to the console and a
 simple Tk GUI with a live plot to verify correct behaviour of the height inputs.
 """
 
