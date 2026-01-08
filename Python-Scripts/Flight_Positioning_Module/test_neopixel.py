@@ -1,4 +1,4 @@
-"""Standalone NeoPixel LED test for the LiteWing flight stabilizer shield.
+"""Standalone NeoPixel LED test for the LiteWing Drone Flight Positioning Module.
 
 Provides a small GUI to connect to the drone, set colours, clear LEDs, and toggle
 blinking. All commands are echoed to both the console and the GUI log window.

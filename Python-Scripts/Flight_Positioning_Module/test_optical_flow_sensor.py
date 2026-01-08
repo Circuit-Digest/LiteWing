@@ -1,4 +1,4 @@
-"""Standalone optical flow sensor test for the LiteWing flight stabilizer shield.
+"""Standalone optical flow sensor test for the LiteWing Drone Flight Positioning Module.
 
 Streams raw optical flow deltas, computed velocities, and the integrated XY
 trajectory to both the console and a matplotlib-enabled Tk GUI.
